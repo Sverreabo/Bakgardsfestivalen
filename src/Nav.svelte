@@ -11,11 +11,6 @@
 </main>
 
 <style>
-	main {
-		display: flex;
-		justify-content: center;
-	}
-
 	nav {
 		display: flex;
 		flex-direction: column;
@@ -27,10 +22,12 @@
 		border: none;
 		font-size: 20px;
 		color: rgb(255, 255, 255);
+		min-width: 150px;
 	}
 
 	button:hover,
 	button:focus-visible {
 		background-color: rgb(130, 194, 117);
+		cursor: pointer;
 	}
 </style>

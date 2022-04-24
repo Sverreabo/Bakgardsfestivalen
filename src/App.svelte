@@ -70,6 +70,7 @@
 	@media (max-width: 640px) {
 		.Nav {
 			position: static;
+			margin-left: 14.5%;
 		}
 	}
 </style>

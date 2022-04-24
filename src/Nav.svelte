@@ -1,12 +1,12 @@
 <main>
 	<nav>
-		<button href="Om festivalen">Om festivalen</button>
+		<a href="#Om">Om festivalen</a>
 
-		<button>Program</button>
+		<a>Program</a>
 
-		<button>Kjøp billetter</button>
+		<a>Kjøp billetter</a>
 
-		<button>Kontakt</button>
+		<a>Kontakt</a>
 	</nav>
 </main>
 
@@ -16,18 +16,18 @@
 		flex-direction: column;
 	}
 
-	button {
+	a {
 		text-align: left;
 		background: none;
 		border: none;
-		font-size: 20px;
+		font-size: 24px;
 		color: rgb(255, 255, 255);
-		min-width: 150px;
 	}
 
-	button:hover,
-	button:focus-visible {
+	a:hover,
+	a:focus-visible {
 		background-color: rgb(130, 194, 117);
 		cursor: pointer;
+		text-decoration: none;
 	}
 </style>

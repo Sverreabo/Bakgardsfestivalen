@@ -1,12 +1,12 @@
 <main>
 	<nav>
-		<a href="#Om">Om festivalen</a>
+		<a href="#Om_festivalen">Om festivalen</a>
 
-		<a>Program</a>
+		<a href="#Program">Program</a>
 
-		<a>Kjøp billetter</a>
+		<a href="#Kjøp_biletter">Kjøp billetter</a>
 
-		<a>Kontakt</a>
+		<a href="#Kontakt">Kontakt</a>
 	</nav>
 </main>
 

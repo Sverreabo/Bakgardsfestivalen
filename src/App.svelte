@@ -10,8 +10,14 @@
 				<Nav />
 			</div>
 			<div class="relative">
-				<img id="logo-img" src="logo.png" />
-				<img id="prikk-img" src="prikk.png" />
+				<img
+					id="logo-img"
+					width="2058"
+					height="2550"
+					alt=""
+					src="logo.png"
+				/>
+				<img id="prikk-img" alt="" src="prikk.png" />
 			</div>
 		</div>
 

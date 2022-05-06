@@ -1,13 +1,13 @@
 <main>
 	<nav>
-		<a href="om-festivalen#innhold">Om festivalen</a>
+		<a href="/om-festivalen#innhold">Om festivalen</a>
 
-		<a href="program#innhold">Program</a>
+		<a href="/program#innhold">Program</a>
 
-		<a href="grønt-og-nært#innhold">Grønt og nært</a>
+		<a href="/grønt-og-nært#innhold">Grønt og nært</a>
 
-		<a href="siste-nytt#innhold">Siste nytt</a>
-		<a href="hjelpe-til#innhold">Hjelpe til?</a>
+		<a href="/siste-nytt#innhold">Siste nytt</a>
+		<a href="/hjelpe-til#innhold">Hjelpe til?</a>
 	</nav>
 </main>
 

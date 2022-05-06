@@ -1,12 +1,13 @@
 <main>
 	<nav>
-		<a href="#Om_festivalen">Om festivalen</a>
+		<a href="om-festivalen#innhold">Om festivalen</a>
 
-		<a href="#Program">Program</a>
+		<a href="program#innhold">Program</a>
 
-		<a href="#Kjøp_biletter">Kjøp billetter</a>
+		<a href="grønt-og-nært#innhold">Grønt og nært</a>
 
-		<a href="#Kontakt">Kontakt</a>
+		<a href="siste-nytt#innhold">Siste nytt</a>
+		<a href="hjelpe-til#innhold">Hjelpe til?</a>
 	</nav>
 </main>
 
@@ -21,7 +22,7 @@
 		background: none;
 		border: none;
 		font-size: 24px;
-		color: rgb(255, 255, 255);
+		color: rgb(255, 255, 255) !important;
 	}
 
 	a:hover,

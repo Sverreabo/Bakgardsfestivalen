@@ -2,12 +2,17 @@
 	box-sizing: border-box;
 }
 
+html {
+	scroll-behavior:smooth;
+}
+
 html, body {
 	width: 100%;
 	height: 100%;
 }
 
 body {
+	overflow-y: scroll;
 	background-color: rgb(155, 204, 145);
 	margin: 0;
 	padding: 3%;
@@ -17,10 +22,6 @@ body {
 
 section {
 	margin-top: 3rem;
-}
-
-h1 {
-	margin: 0 0.5rem;
 }
 
 a {

@@ -29,6 +29,9 @@
 <style>
 	h1 {
 		margin: 0;
+		/* color: rgb(35, 31, 32); */
+		font-size: 3rem;
+		letter-spacing: -1px;
 	}
 
 	.container {
@@ -63,6 +66,10 @@
 		.Nav {
 			position: static;
 			margin-left: 14.5%;
+		}
+
+		.container {
+			width: 90%;
 		}
 	}
 </style>

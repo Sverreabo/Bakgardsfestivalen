@@ -13,6 +13,7 @@ html, body {
 
 body {
 	overflow-y: scroll;
+	overflow-x: hidden;
 	background-color: rgb(155, 204, 145);
 	margin: 0;
 	padding: 3%;

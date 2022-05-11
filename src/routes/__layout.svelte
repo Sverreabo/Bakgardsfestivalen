@@ -71,5 +71,9 @@
 		.container {
 			width: 90%;
 		}
+
+		h1 {
+			font-size: 2rem;
+		}
 	}
 </style>

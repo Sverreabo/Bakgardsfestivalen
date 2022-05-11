@@ -10,7 +10,7 @@
 				<Nav />
 			</div>
 			<div class="relative">
-				<img id="logo-img" width="2058" height="2550" alt="" src="/logo.svg" />
+				<img id="logo-img" width="512" height="613" alt="" src="/logo.svg" />
 				<img id="prikk-img" alt="" src="/ring_over_aa.svg" />
 			</div>
 		</div>

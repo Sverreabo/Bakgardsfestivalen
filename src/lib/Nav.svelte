@@ -31,4 +31,11 @@
 		cursor: pointer;
 		text-decoration: none;
 	}
+
+	@media (max-width: 640px) {
+		a {
+			font-size: 28px;
+			margin-bottom: 2px;
+		}
+	}
 </style>

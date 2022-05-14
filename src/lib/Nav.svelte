@@ -22,6 +22,7 @@
 		background: none;
 		border: none;
 		font-size: 24px;
+		padding: 0 0.05rem;
 		color: rgb(255, 255, 255) !important;
 	}
 
@@ -35,7 +36,7 @@
 	@media (max-width: 640px) {
 		a {
 			font-size: 28px;
-			margin-bottom: 2px;
+			padding: 0.2rem 0.2rem;
 		}
 	}
 </style>

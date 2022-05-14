@@ -1,3 +1,7 @@
+:root {
+	--container-width: min(80vw, 512px);
+}
+
 * {
 	box-sizing: border-box;
 }
@@ -16,13 +20,8 @@ body {
 	overflow-x: hidden;
 	background-color: rgb(155, 204, 145);
 	margin: 0;
-	padding: 3%;
 	box-sizing: border-box;
 	font-family: 'Roboto Condensed', sans-serif;
-}
-
-section {
-	margin-top: 3rem;
 }
 
 a {
@@ -77,6 +76,9 @@ button:focus {
 
 .flex {
 	display: flex;
+}
+
+.flex-wrap {
 	flex-wrap: wrap;
 }
 
@@ -84,8 +86,27 @@ button:focus {
 	justify-content: space-between;
 }
 
+.flex-column {
+	flex-direction: column;
+}
+
+.container {
+	width: var(--container-width);
+	padding: 0.5rem 0;
+	margin: 0 auto;
+}
+
+.container-wide {
+	margin: 0 auto;
+	max-width: 1920px;
+}
+
+.relative {
+	position: relative;
+}
+
 @media (max-width: 640px) {
-	body {
-		padding: 1%;
+	:root {
+		--container-width: 90vw;
 	}
 }

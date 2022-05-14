@@ -8,7 +8,10 @@
 			<h2>Grønt og nært</h2>
 		</div>
 		<div class="container-wide">
-			<img id="img-geitmyra" width="1634" height="1080" alt="" src="/Geitmyra.jpg" />
+			<picture>
+				<source media="(min-width: 1080px)" srcset="/Geitmyra_short.jpg" />
+				<img id="img-geitmyra" width="1634" height="1080" alt="" src="/Geitmyra.jpg" />
+			</picture>
 		</div>
 		<div class="over-img" id="text-over-img">
 			<p>

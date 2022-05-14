@@ -2,8 +2,8 @@
 	<title>Hjelpe til?</title>
 </svelte:head>
 
-<section>
-	<h1>Hjelpe til?</h1>
+<main>
+	<h2>Hjelpe til?</h2>
 	<p>
 		Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas reiciendis animi totam saepe!
 		Repudiandae, esse minus, asperiores ipsam quos, inventore distinctio nisi eveniet exercitationem
@@ -16,4 +16,4 @@
 		dicta voluptas autem, fugit velit, alias inventore saepe temporibus maiores enim. Facere
 		deleniti eum sed pariatur doloribus praesentium tempora quae aspernatur voluptas officia?
 	</p>
-</section>
+</main>

@@ -2,8 +2,8 @@
 	<title>Program</title>
 </svelte:head>
 
-<section>
-	<h1>Program</h1>
+<main>
+	<h2>Program</h2>
 	<p>
 		Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, accusantium? Asperiores quia
 		voluptas velit fugiat reprehenderit quaerat ipsa nulla, porro officiis esse possimus? Quidem
@@ -11,4 +11,4 @@
 		officia facere libero ullam explicabo quidem a quasi recusandae eveniet exercitationem nisi, cum
 		voluptas, nostrum corporis numquam veniam nam. Sint doloremque nostrum velit! Reprehenderit.
 	</p>
-</section>
+</main>

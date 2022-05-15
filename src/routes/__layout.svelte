@@ -2,6 +2,7 @@
 	import Logo from '$lib/Logo.svelte';
 	import Footer from '$lib/Footer.svelte';
 	import '../app.css';
+	import { page } from '$app/stores';
 </script>
 
 <main class="flex flex-space-between flex-column">
@@ -12,8 +13,9 @@
 			<slot />
 		</div>
 	</div>
-
-	<Footer />
+	{#if $page.url.pathname != '/'}
+		<Footer />
+	{/if}
 </main>
 
 <style>

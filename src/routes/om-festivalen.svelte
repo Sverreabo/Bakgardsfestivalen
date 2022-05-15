@@ -3,8 +3,7 @@
 </svelte:head>
 
 <main class="container">
-	<h2>Om festivalen</h2>
-	<p>BAKGÅRDSFESTIVALEN I TØNSBERG SENTRUM FREDAG 10. OG LØRDAG 11.JUNI 2022</p>
+	<h2>BAKGÅRDSFESTIVALEN I TØNSBERG SENTRUM FREDAG 10. OG LØRDAG 11.JUNI 2022</h2>
 
 	<p>
 		Etter den vellykkede gjenåpningen av uterestauranten «Friluften» som pop-sted, sommeren 2021,
@@ -27,9 +26,9 @@
 		kulturkrefter som har vist stor interesse. Sammen med noe økonomisk støtte gjør dette at hele
 		festivalen er gratis, både for små og store.
 	</p>
-	<p>
+	<i>
 		*K-7 er en ideell forening der medlemmene har tilgang til en arbeidsplass og et sosialt
 		fellesskap I Kammegaten 7. Flere av medlemmene i K-7 har interesse og engasjement for prosjekter
 		som kan bidra til en positiv byutvikling i Tønsberg. Alle arbeider frivillig for dette.
-	</p>
+	</i>
 </main>

@@ -2,7 +2,7 @@
 	<title>Hjelpe til?</title>
 </svelte:head>
 
-<main>
+<main class="container">
 	<h2>Hjelpe til?</h2>
 	<p>
 		Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas reiciendis animi totam saepe!

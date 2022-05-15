@@ -2,7 +2,7 @@
 	<title>Siste nytt</title>
 </svelte:head>
 
-<main>
+<main class="container">
 	<h2>Siste nytt</h2>
 	<p>
 		Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores natus ratione amet obcaecati

@@ -37,14 +37,16 @@
 			Vi håper også å kunne grille sesongens grønnsaker, hvis sikkerheten tillater det på denne
 			tørre tiden av året.
 		</p>
-		<div class="flex">
+		<div class="flex onsmall-no-flex">
+			<div id="div-bia">
+				<img id="img-bia" width="955" height="955" src="/bia til pia.png" />
+			</div>
 			<p>
 				Uansett kommer <a href="https://biatilpia.no/" target="_blank">Bia til Pia</a> fra Sandefjord.
 				Hun formidler kunnskap om bier, birøkt og den viktige rollen biene har i vårt økosystem. Dette
 				formidles til barna gjennom lek, underholdning og workshop. Det blir dermed lettere å sette pris
 				på og ta vare på biene våre som er en viktig pollinator.
 			</p>
-			<img id="img-bia" width="955" height="955" src="/bia til pia.png" />
 		</div>
 	</div>
 </main>
@@ -73,8 +75,12 @@
 		height: auto;
 	}
 
+	#div-bia {
+		order: 1;
+	}
+
 	#img-bia {
-		width: 25%;
+		width: 100%;
 		height: min-content;
 	}
 
@@ -83,6 +89,11 @@
 			position: relative;
 			background-color: initial;
 			color: initial;
+		}
+
+		#div-bia {
+			width: 10rem;
+			margin: 0 auto;
 		}
 	}
 </style>

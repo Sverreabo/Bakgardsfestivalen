@@ -39,7 +39,7 @@
 		</p>
 		<div class="flex onsmall-no-flex">
 			<div id="div-bia">
-				<img id="img-bia" width="955" height="955" alt="Bia til Pia logo" src="/bia til pia.png" />
+				<img id="img-bia" width="955" height="955" alt="Bia til Pia logo" src="/bia til pia.webp" />
 			</div>
 			<p>
 				Uansett kommer <a href="https://biatilpia.no/" target="_blank">Bia til Pia</a> fra Sandefjord.

@@ -6,7 +6,16 @@
 	<div class="container">
 		<div class="relative">
 			<div class="Nav">
-				<Nav />
+				<Nav small={true}>
+					<a href="/om-festivalen#innhold">Om festivalen</a>
+
+					<a href="/program#innhold">Program</a>
+
+					<a href="/grønt-og-nært#innhold">Grønt og nært</a>
+
+					<a href="/siste-nytt#innhold">Siste nytt</a>
+					<a href="/hjelpe-til#innhold">Hjelpe til?</a>
+				</Nav>
 			</div>
 			<div class="relative">
 				<img id="logo-img" width="512" height="613" alt="" src="/logo.svg" />

@@ -1,16 +1,23 @@
 <script>
 	import Nav from '$lib/Nav.svelte';
+	import { page } from '$app/stores';
 </script>
 
 <main>
 	<div class="container">
+		<h2>Barneprogram</h2>
 		<div id="tilbake">
-			<a href="/program/#innhold">&#8249; Tilbake</a>
+			<a
+				href={$page.url.pathname === '/program/barneprogram/'
+					? '/program/#innhold'
+					: '/program/barneprogram/#innhold'}>&#8249; Tilbake</a
+			>
 		</div>
 		<Nav>
 			<a href="/program/voksenprogram/litteraturprogram/#innhold">Litteraturprogram</a>
 			<a href="/program/voksenprogram/musikkprogram/#innhold">Musikkprogram</a>
-			<a href="/program/voksenprogram/forfatterne/#innhold">Forfatterne</a>
+			<a href="/program/voksenprogram/scenekunst/#innhold">Scenekunst</a>
+			<a href="/program/voksenprogram/grønn-matkultur/#innhold">Grønn matkultur</a>
 		</Nav>
 	</div>
 	<slot />

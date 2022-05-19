@@ -5,6 +5,7 @@
 
 <main>
 	<div class="container">
+		<h2>Voksenprogram</h2>
 		<div id="tilbake">
 			<a
 				href={$page.url.pathname === '/program/voksenprogram/'

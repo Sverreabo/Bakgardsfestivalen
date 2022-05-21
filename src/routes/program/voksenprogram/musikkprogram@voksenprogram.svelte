@@ -74,7 +74,8 @@
 				</figure>
 			</li>
 			<li>
-				<h3>Herrene i hagen</h3>
+				<h3>HERRENE I HAVEN</h3>
+				<img width="720" height="480" alt="HERRENE I HAVEN" src="/HERRENE I HAVEN.jpg" />
 				<p>Her mangler det innhold</p>
 			</li>
 		</ul>

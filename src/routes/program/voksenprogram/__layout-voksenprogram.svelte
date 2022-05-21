@@ -14,7 +14,7 @@
 			>
 		</div>
 		<Nav>
-			<a href="/program/voksenprogram/litteraturprogram/#innhold">Litteraturprogram</a>
+			<a href="/program/voksenprogram/litteraturprogram/#innhold">Litteraturprogram &raquo;</a>
 			<a href="/program/voksenprogram/musikkprogram/#innhold">Musikkprogram</a>
 			<a href="/program/voksenprogram/scenekunst/#innhold">Scenekunst</a>
 			<a href="/program/voksenprogram/grønn-matkultur/#innhold">Grønn matkultur</a>

@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Forfatterene</title>
+	<title>Forfatterne</title>
 </svelte:head>
 
 <main class="container">

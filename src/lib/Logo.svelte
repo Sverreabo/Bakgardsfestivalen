@@ -25,7 +25,7 @@
 
 		<div class="flex flex-wrap flex-space-between">
 			<h1>Tønsberg</h1>
-			<h1>10.-11 juni 2022</h1>
+			<h1>10.-11. juni 2022</h1>
 		</div>
 	</div>
 </main>

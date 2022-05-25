@@ -13,12 +13,12 @@
 					: '/program/barneprogram/#innhold'}>&#8249; Tilbake</a
 			>
 		</div>
-		<Nav>
+		<!-- <Nav>
 			<a href="/program/barneprogram/#innhold">Litteraturprogram</a>
 			<a href="/program/barneprogram/#innhold">Musikkprogram</a>
 			<a href="/program/barneprogram/#innhold">Scenekunst</a>
 			<a href="/program/barneprogram/#innhold">Grønn matkultur</a>
-		</Nav>
+		</Nav> -->
 	</div>
 	<slot />
 </main>

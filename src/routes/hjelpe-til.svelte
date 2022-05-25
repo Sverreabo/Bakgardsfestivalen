@@ -5,15 +5,23 @@
 <main class="container">
 	<h2>Hjelpe til?</h2>
 	<p>
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas reiciendis animi totam saepe!
-		Repudiandae, esse minus, asperiores ipsam quos, inventore distinctio nisi eveniet exercitationem
-		consequuntur perferendis? At expedita rem natus. Accusantium quis vero sapiente, a possimus
-		aliquam deserunt laudantium est corrupti. Placeat quaerat itaque ipsa assumenda? Architecto
-		quidem obcaecati, assumenda, voluptatem odit, atque expedita aspernatur ea temporibus ad dolorem
-		id. Eaque, nulla iste. Doloribus vitae doloremque beatae explicabo voluptates veniam voluptatum,
-		hic esse aut. Inventore atque corporis et voluptates ipsum! Vel, accusamus eos repellat quod
-		doloremque sed illum quisquam quidem. Odit sapiente minima recusandae. Quia, aliquam maxime
-		dicta voluptas autem, fugit velit, alias inventore saepe temporibus maiores enim. Facere
-		deleniti eum sed pariatur doloribus praesentium tempora quae aspernatur voluptas officia?
+		Nå nærmer gjennomføringen av Bakgårdsfestivalen seg med stormskritt. Flere og flere brikker
+		faller på plass og vi har stor tro på at dette blir et fint arrangement til glede for Tønsberg
+		by og publikum.
 	</p>
+	<p>Men - «Det er itjnå som kjem tå seg sjøl» (Vømmøl Spellmannslag 1975)</p>
+	<p>
+		Derfor håper vi på mange gode krefter som vil stille opp som frivillig i forbindelse med
+		riggingen torsdag 9. juni og selve festivaldagene 10. og 11.juni. Nedrigging blir søndag 12.
+		juni.
+	</p>
+	<p>
+		Festivalen er åpen fra kl.11-23 fredag og lørdag. Hver vakt varer i 2 timer. Det blir flere på
+		vakt samtidig. Hvis du vil ta en vakt eller to, eller har noen venner og kjente som har lyst, så
+		send en mail til <a href="mailto:jonedgar53@gmail.com">jonedgar53@gmail.com</a> med navn, telefon
+		og e-postadresse. Oppgi dager og tidspunkter du/dere ønsker å bidra. Vi innkaller de frivillige til
+		et kort kveldsmøte siste uka før festivalen for å gi nødvendige opplysninger om arbeidsoppgaver og
+		informere om «kjekt å vite».
+	</p>
+	<p>Jon Edgar oppfordrer alle til å dele dette budskapet med andre.</p>
 </main>

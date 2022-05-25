@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<nav class={small ? 'small' : 'large'}>
+	<nav class:small>
 		<slot />
 	</nav>
 </main>
@@ -14,10 +14,9 @@
 		flex-direction: column;
 	}
 
-	main :global(.large a) {
+	main :global(:not(.small) a) {
 		font-size: 28px;
 		padding: 0.3rem 0.3rem;
-		color: red;
 	}
 
 	main :global(a) {
@@ -35,6 +34,10 @@
 		background-color: rgb(130, 194, 117);
 		cursor: pointer;
 		text-decoration: none;
+	}
+
+	main :global(a.active) {
+		font-weight: 600;
 	}
 
 	@media (max-width: 640px) {

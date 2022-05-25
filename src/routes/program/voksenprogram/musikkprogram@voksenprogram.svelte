@@ -75,8 +75,29 @@
 			</li>
 			<li>
 				<h3>HERRENE I HAVEN</h3>
-				<img width="720" height="480" alt="HERRENE I HAVEN" src="/HERRENE I HAVEN.jpg" />
-				<p>Her mangler det innhold</p>
+				<figure>
+					<img width="720" height="480" alt="HERRENE I HAVEN" src="/HERRENE I HAVEN.jpg" />
+					<figcaption>
+						Fra venstre; Olaf Knerten Kamfjord, bass, Terje Johannesen, gitar/trompet, Rune Jensen,
+						tangenter, Reidar Vinje Stensvold, vokal/gitar, Stein Erik Lunde, tekster, Jon Kirkebø
+						Rosslund, perkusjon.
+					</figcaption>
+				</figure>
+				<p>
+					Herrene har gitt ut fire album, og er nå i prosess med et prosjekt, hvor første EP i en
+					større samling slippes i løpet av sommeren. Det er i alt 25 nyskrevne sanger som
+					suksessivt skal slippes i EP format under en lengre periode. Tekstene er skrevet av Stein
+					Erik Lunde og Reidar Vinje Stensvold, og all musikk er komponert og arrangert av Herrene.
+				</p>
+				<p>
+					Musikalsk befinner Herrene i Haven seg i et terreng med jazz, folk og pop. I en tidligere
+					presentasjon stod det at `Herrene i Haven synger sanger om å leve fullt ut, hvor fint det
+					er, men akk, så vanskelig også.`
+				</p>
+				<p>
+					Tor Hammerø skrev i bloggen Tor de Jazz, at; Herrene i Haven har mye på hjertet og vet
+					hvordan det skal formidles.`
+				</p>
 			</li>
 		</ul>
 	</div>

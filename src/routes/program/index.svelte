@@ -1,5 +1,6 @@
 <script>
 	import Nav from '$lib/Nav.svelte';
+	import NavLink from '$lib/NavLink.svelte';
 </script>
 
 <svelte:head>
@@ -9,8 +10,8 @@
 <main>
 	<div class="container">
 		<Nav>
-			<a href="/program/voksenprogram/#innhold">Voksenprogram &raquo;</a>
-			<a href="/program/barneprogram/#innhold">Barneprogram &raquo;</a>
+			<NavLink href="/program/voksenprogram/#innhold">Voksenprogram &raquo;</NavLink>
+			<NavLink href="/program/barneprogram/#innhold">Barneprogram &raquo;</NavLink>
 		</Nav>
 	</div>
 	<slot />

@@ -1,6 +1,5 @@
 <script>
 	import Logo from '$lib/Logo.svelte';
-	import Footer from '$lib/Footer.svelte';
 	import '../app.css';
 	import { page } from '$app/stores';
 </script>
@@ -13,9 +12,6 @@
 			<slot />
 		</div>
 	</div>
-	{#if $page.url.pathname != '/'}
-		<Footer />
-	{/if}
 </main>
 
 <style>

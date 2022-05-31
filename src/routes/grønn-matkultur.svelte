@@ -1,11 +1,11 @@
 <svelte:head>
-	<title>Grønt og nært</title>
+	<title>Grønn matkultur</title>
 </svelte:head>
 
 <main>
 	<div class="relative">
 		<div class="over-img">
-			<h2>Grønt og nært</h2>
+			<h2>Grønn matkultur</h2>
 		</div>
 		<div class="container-wide">
 			<picture>
@@ -27,6 +27,10 @@
 	</div>
 
 	<div class="container">
+		<p>
+			Aktiviteten i bakgården for Grønn matkultur er åpen på dagtid fra 11-17, med inngangen ved
+			siden av Tønsberg Optiske i Kammegaten 5.
+		</p>
 		<p>Aktiviteter blir:</p>
 		<ul>
 			<li>Smak en plante/spis en blomst</li>

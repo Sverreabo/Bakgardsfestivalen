@@ -11,7 +11,7 @@
 
 					<a href="/program#innhold">Program</a>
 
-					<a href="/grønt-og-nært#innhold">Grønt og nært</a>
+					<a href="/grønn-matkultur#innhold">Grønn matkultur</a>
 
 					<a href="/siste-nytt#innhold">Siste nytt</a>
 					<a href="/hjelpe-til#innhold">Hjelpe til?</a>

@@ -19,8 +19,6 @@
 				Litteraturprogram &raquo;
 			</NavLink>
 			<NavLink href="/program/voksenprogram/musikkprogram/#innhold">Musikkprogram</NavLink>
-			<NavLink href="/program/voksenprogram/scenekunst/#innhold">Scenekunst</NavLink>
-			<NavLink href="/program/voksenprogram/grønn-matkultur/#innhold">Grønn matkultur</NavLink>
 		</Nav>
 	</div>
 	<slot />

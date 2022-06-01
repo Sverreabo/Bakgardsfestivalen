@@ -57,18 +57,15 @@
 		<h3>Akkurat nå befinner han seg i Ukraina.</h3>
 	</div>
 	<div id="Christian Rene Wold">
-		<div id="flex-wold" class="flex">
-			<div id="div-wold">
-				<img width="343" height="240" alt="Christian Rene Wold" src="/Christian Rene Wold.jpg" />
-			</div>
-			<div id="wold-text">
-				<h2>Christian René Wold</h2>
-				<p>
-					En gang lå verden for Christian René Wolds føtter (født i 1972). Den skoleflinke
-					vestkantgutten kombinerer økonomistudier med talenter på scenen.
-				</p>
-			</div>
+		<div class="container-img-left">
+			<img width="343" height="240" alt="Christian Rene Wold" src="/Christian Rene Wold.jpg" />
 		</div>
+
+		<h2>Christian René Wold</h2>
+		<p>
+			En gang lå verden for Christian René Wolds føtter (født i 1972). Den skoleflinke
+			vestkantgutten kombinerer økonomistudier med talenter på scenen.
+		</p>
 		<p>
 			En høy og veltrent kropp gjør underverker for selvtilliten, modellkarrieren og
 			skuespillerambisjonene. I 1997 reiser han til New York for å realisere drømmer. Han hadde
@@ -112,7 +109,7 @@
 				</figcaption>
 			</figure>
 			<div class="header-img">
-				<h2 id="bendiksen-h2">Jonas Bendiksen</h2>
+				<h2 class="white-h2">Jonas Bendiksen</h2>
 			</div>
 		</div>
 		<p>
@@ -194,6 +191,58 @@
 		<h3>Hva kan denne historien fortelle oss?</h3>
 		<img width="1889" height="1257" alt="" src="/Veles.jpg" loading="lazy" />
 	</div>
+
+	<div id="Marta Breen">
+		<div class="relative">
+			<img width="768" height="768" alt="Marta Breen" src="/Marta Breen.jpg" />
+			<div class="header-img">
+				<h2 class="white-h2">Marta Breen</h2>
+			</div>
+		</div>
+		<p>
+			Marta Breen (f.1976) er sakprosaforfatter og journalist. Breen har skrevet en rekke bøker om
+			kvinner i kulturlivet, kjønnsroller og feminisme. Hun debuterte som forfatter i 2006 med boken
+			<i>Piker, vin og sang</i>, i den setter hun fokus på norske kvinnelige musikkartister og
+			musikkgrupper opp gjennom historien. Bestselgerne <i>60 damer du skulle ha møtt</i> og
+			<i>Kvinner i kamp</i> er to av bøkene hun har gitt ut i samarbeid med illustratør Jenny
+			Jordahl.
+			<i>Kvinner i kamp</i> ble også en internasjonal storselger og er utgitt i 27 land. Breen er tidligere
+			leder i Norsk faglitterær forfatter- og oversetterforening.
+		</p>
+		<p>Om foredraget:</p>
+		<h3>Hvordan snakke om kvinner og menn?</h3>
+		<ul>
+			<li>
+				Hvorfor heter det ”karrierekvinne”, men ikke ”karrieremann”? Hvorfor blir en ”pappajente”
+				sett på som kulere enn en ”mammagutt”? Og hvorfor reagerer vi mer negativt på en full kvinne
+				enn en full mann?
+			</li>
+			<li>
+				Stadig får vi forskningsrapporter som viser at vi opererer med en ulik moralkodeks for
+				kjønnene. Det å gjøre suksess i arbeidslivet øker menns sjanse for å bli godt likt, mens det
+				motsatte gjelder for en kvinne: Hun blir mindre likt dess høyere opp i hierarkiet hun
+				kommer. Ifølge undersøkelser forventer både menn og kvinner mer omsorg og empati fra en
+				kvinnelig sjef.
+			</li>
+			<li>
+				I dette underholdende foredraget viser forfatter Marta Breen en rekke eksempler på hvordan
+				medier og populærkultur presenterer kvinner og menn på stereotypt vis. Hun tar også for seg
+				de fordommene mange av oss bærer på når det kommer til kjønn – og hvordan vi kan unngå de
+				verste fallgruvene.
+			</li>
+		</ul>
+	</div>
+	<div id="Rønnaug Sørensen">
+		<div class="container-img-left">
+			<img width="240" height="320" alt="Rønnaug Sørensen" src="/Rønnaug Sørensen.jpg" />
+		</div>
+		<h2>Rønnaug Sørensen</h2>
+		<p>
+			Rønnaug Sørensen er sosiolog og førstelektor i samfunnsfag ved Universitetet i Sørøst-Norge.
+			Hennes forskning retter seg mot kjønn, seksuell trakassering og mannsdominans. Hun har
+			publisert artikler og bøker om kjønn, jentegrupper, seksuell trakassering og SKAM.
+		</p>
+	</div>
 </main>
 
 <style>
@@ -207,20 +256,13 @@
 		left: 1%;
 	}
 
-	#wold-text {
-		margin: 0.1rem 0.5rem;
+	.container-img-left {
+		width: 40%;
+		float: left;
+		margin-right: 1rem;
 	}
 
-	#wold-text h2 {
-		white-space: nowrap;
-		margin: 0;
-	}
-
-	#div-wold {
-		flex-shrink: 0.5;
-	}
-
-	#bendiksen-h2 {
+	.white-h2 {
 		color: white;
 	}
 
@@ -246,19 +288,16 @@
 	}
 
 	@media (max-width: 568px) {
-		#flex-wold {
-			display: initial;
-		}
-
-		#wold-text {
-			margin: initial;
-		}
-
 		.header-img {
 			position: static;
 		}
 
-		#bendiksen-h2 {
+		.container-img-left {
+			float: initial;
+			width: 60%;
+		}
+
+		.white-h2 {
 			color: initial;
 		}
 	}

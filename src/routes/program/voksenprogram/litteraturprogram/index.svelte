@@ -21,9 +21,28 @@
 					kulturlivet. Kommentar ved sosiolog og førstelektor Rønnaug Sørensen. Vert: Norunn
 					Askeland.
 				</p>
+				<div class="flex">
+					<div style="flex: 57.14%;">
+						<figure>
+							<img width="768" height="768" alt="Marta Breen" src="/Marta Breen.jpg" />
+							<figcaption>Marta Breen</figcaption>
+						</figure>
+					</div>
+					<div style="flex: 42.86%;">
+						<figure>
+							<img width="240" height="320" alt="Rønnaug Sørensen" src="/Rønnaug Sørensen.jpg" />
+							<figcaption>Rønnaug Sørensen</figcaption>
+						</figure>
+					</div>
+				</div>
 			</li>
 			<li>
 				<h3>Fra gangster til forfatter</h3>
+				<p>
+					Christian René Wold gikk fra å være en skoleflink gutt til å bli tung rusmisbruker og
+					farlig kriminell. Men et møte med bøkenes verden og noen som så hans potensiale endret
+					livet hans. Samtaleleder Jan Mehlum.
+				</p>
 				<img
 					class="p50"
 					width="585"
@@ -31,11 +50,6 @@
 					alt="Christian René Wold"
 					src="/Fra gangster til forfatter.jpg"
 				/>
-				<p>
-					Christian René Wold gikk fra å være en skoleflink gutt til å bli tung rusmisbruker og
-					farlig kriminell. Men et møte med bøkenes verden og noen som så hans potensiale endret
-					livet hans. Samtaleleder Jan Mehlum.
-				</p>
 			</li>
 		</ul>
 	</div>
@@ -65,7 +79,7 @@
 							/>
 						</div>
 					</div>
-					<figcaption>Elisa Dahle ogTobias Nørstebø-Vartdal. Foto: Cedric Archer</figcaption>
+					<figcaption>Elisa Dahle og Tobias Nørstebø-Vartdal. Foto: Cedric Archer</figcaption>
 				</figure>
 			</li>
 			<li>
@@ -83,6 +97,7 @@
 					Samtaleleder Jan Mehlum.
 				</p>
 				<img
+					class="p50"
 					width="586"
 					height="878"
 					alt="Anders Sømme Hammer"
@@ -122,5 +137,9 @@
 	.program ul {
 		padding-left: 5%;
 		list-style: none;
+	}
+
+	.program li {
+		margin-bottom: 2rem;
 	}
 </style>

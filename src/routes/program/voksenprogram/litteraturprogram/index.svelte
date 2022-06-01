@@ -68,11 +68,11 @@
 				<figure>
 					<div class="flex">
 						<div>
-							<img width="554" height="788" alt="Elise Dahle" src="/Elise Dahle.jpg" />
+							<img width="554" height="774" alt="Elise Dahle" src="/Elise Dahle.jpg" />
 						</div>
 						<div>
 							<img
-								width="569"
+								width="554"
 								height="774"
 								alt="Tobias Nørstebø-Vartdal"
 								src="/Tobias Nørstebø-Vartdal.jpg"

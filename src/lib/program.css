@@ -1,0 +1,16 @@
+.program h3 {
+    margin-bottom: 0.2rem;
+}
+
+.program p {
+    margin: 0.2rem 0;
+}
+
+.program ul {
+    padding-left: 5%;
+    list-style: none;
+}
+
+.program > ul > li {
+    margin-bottom: 2rem;
+}

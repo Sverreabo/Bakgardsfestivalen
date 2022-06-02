@@ -1,3 +1,7 @@
+<script>
+	import '$lib/program.css';
+</script>
+
 <svelte:head>
 	<title>Litteraturprogram</title>
 </svelte:head>
@@ -124,22 +128,5 @@
 
 	.p50 {
 		width: 50%;
-	}
-
-	.program h3 {
-		margin-bottom: 0.2rem;
-	}
-
-	.program p {
-		margin: 0.2rem 0;
-	}
-
-	.program ul {
-		padding-left: 5%;
-		list-style: none;
-	}
-
-	.program > ul > li {
-		margin-bottom: 2rem;
 	}
 </style>

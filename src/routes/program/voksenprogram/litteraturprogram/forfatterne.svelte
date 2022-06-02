@@ -180,6 +180,11 @@
 		text-transform: uppercase;
 	}
 
+	img {
+		width: 100%;
+		height: auto;
+	}
+
 	@media (max-width: 568px) {
 		.header-img {
 			position: static;

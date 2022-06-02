@@ -1,6 +1,6 @@
 <script>
 	import Logo from '$lib/Logo.svelte';
-	import '../app.css';
+	import '$lib/app.css';
 	import { page } from '$app/stores';
 </script>
 

@@ -108,6 +108,10 @@ button:focus {
 	position: relative;
 }
 
+.p50 {
+	width: 50% !important;
+}
+
 @media (max-width: 640px) {
 	:root {
 		--container-width: 90vw;

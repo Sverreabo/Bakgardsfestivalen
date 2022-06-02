@@ -29,7 +29,8 @@
 	<div class="container">
 		<p>
 			Aktiviteten i bakgården for Grønn matkultur er åpen på dagtid fra 11-17, med inngangen ved
-			siden av Tønsberg Optiske i Kammegaten 5.
+			siden av Tønsberg Optiske i Kammegaten 5. Se programmet under program &#62; barneprogram &#62;
+			grønn matkultur.
 		</p>
 		<p>Aktiviteter blir:</p>
 		<ul>

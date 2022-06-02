@@ -4,10 +4,11 @@
 
 <main class="container">
 	<div class="program">
+		<p>Musikkdelen vil foregå i bakgården til Torvgaten 2.</p>
 		<h2>Fredag 10.6 - kl 20.00-23.00</h2>
 		<ul>
 			<li>
-				<h3>Færderfyrene synger</h3>
+				<h3>20:00 til 21:00 - Færderfyrene synger</h3>
 				<figure>
 					<img width="605" height="340" alt="Færderfyrene" src="/Færderfyrene.jpg" />
 					<figcaption>
@@ -24,7 +25,10 @@
 				</p>
 			</li>
 			<li>
-				<h3>Anette og Gutta spiller Teigen</h3>
+				<h3>20:00 til 22:00 - Martine Biong spiller</h3>
+			</li>
+			<li>
+				<h3>20:00 til 22:00 - Anette og Gutta spiller Teigen</h3>
 				<img width="512" height="512" alt="Anette og gutta" src="/Anette og gutta.jpg" />
 				<p>
 					«Anette og gutta» ble etablert i 2020, og har på kort tid etablert seg i Tønsberg og omegn
@@ -36,7 +40,7 @@
 				</p>
 			</li>
 			<li>
-				<h3>Linda Kvam Band</h3>
+				<h3>22:00 til 23:00 - Linda Kvam Band</h3>
 				<img width="714" height="480" alt="Linda Kvam" src="/Linda Kvam.jpg" />
 				<p>
 					LINDA KVAMs siste plate fikk utmerkede tilbakemeldinger og terningkast, og albumet har
@@ -62,7 +66,10 @@
 		<h2>Lørdag 11.6</h2>
 		<ul>
 			<li>
-				<h3>Sviskeprinsene</h3>
+				<h3>20:00 til 22:00 - Rolf Dolven</h3>
+			</li>
+			<li>
+				<h3>20:00 til 22:00 - Sviskeprinsene</h3>
 				<figure>
 					<figcaption>
 						<img width="800" height="558" alt="Sviskeprinsene" src="/Sviskeprinsene.jpg" />
@@ -74,7 +81,7 @@
 				</figure>
 			</li>
 			<li>
-				<h3>HERRENE I HAVEN</h3>
+				<h3>22:00 til 23:00 - HERRENE I HAVEN</h3>
 				<figure>
 					<img width="720" height="480" alt="HERRENE I HAVEN" src="/HERRENE I HAVEN.jpg" />
 					<figcaption>
@@ -104,19 +111,6 @@
 </main>
 
 <style>
-	.program h3 {
-		margin-bottom: 0.2rem;
-	}
-
-	.program p {
-		margin-top: 0.2rem;
-	}
-
-	.program ul {
-		padding-left: 5%;
-		list-style: none;
-	}
-
 	img,
 	figure {
 		width: 100%;
@@ -128,5 +122,22 @@
 		color: rgb(35, 31, 32);
 		font-style: italic;
 		font-size: 15px;
+	}
+
+	.program h3 {
+		margin-bottom: 0.2rem;
+	}
+
+	.program p {
+		margin: 0.2rem 0;
+	}
+
+	.program ul {
+		padding-left: 5%;
+		list-style: none;
+	}
+
+	.program > ul > li {
+		margin-bottom: 2rem;
 	}
 </style>

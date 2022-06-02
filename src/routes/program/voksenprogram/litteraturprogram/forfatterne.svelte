@@ -180,19 +180,6 @@
 		text-transform: uppercase;
 	}
 
-	img,
-	figure {
-		width: 100%;
-		height: auto;
-		margin: 0;
-	}
-
-	figcaption {
-		color: rgb(35, 31, 32);
-		font-style: italic;
-		font-size: 16px;
-	}
-
 	@media (max-width: 568px) {
 		.header-img {
 			position: static;

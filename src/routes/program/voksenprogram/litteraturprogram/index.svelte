@@ -17,7 +17,7 @@
 			<li>
 				<h3>17:00 - Tjøme Litterære Forum åpner utstillingen BARNDOM</h3>
 				<p>Tjøme Litterære Forum presenterer:</p>
-				<ul style="list-style: disc;">
+				<ul>
 					<li><i>Barndom fra 1950-1980</i> - Kristin von Hirch</li>
 					<li><i>Før himmelen roper deg hjem</i> - Eva Mjøen Brantenberg</li>
 				</ul>

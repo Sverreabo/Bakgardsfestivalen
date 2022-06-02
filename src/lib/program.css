@@ -6,7 +6,11 @@
     margin: 0.2rem 0;
 }
 
-.program ul {
+ul {
+    list-style: disc;
+}
+
+.program > ul {
     padding-left: 5%;
     list-style: none;
 }

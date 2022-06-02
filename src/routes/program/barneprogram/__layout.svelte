@@ -1,6 +1,7 @@
 <script>
 	import Nav from '$lib/Nav.svelte';
 	import { page } from '$app/stores';
+	import NavLink from '$lib/NavLink.svelte';
 </script>
 
 <main>
@@ -13,12 +14,10 @@
 					: '/program/barneprogram/#innhold'}>&#8249; Tilbake</a
 			>
 		</div>
-		<!-- <Nav>
-			<a href="/program/barneprogram/#innhold">Litteraturprogram</a>
-			<a href="/program/barneprogram/#innhold">Musikkprogram</a>
-			<a href="/program/barneprogram/#innhold">Scenekunst</a>
-			<a href="/program/barneprogram/#innhold">Grønn matkultur</a>
-		</Nav> -->
+		<Nav>
+			<NavLink href="/program/barneprogram/scenekunst/#innhold">Scenekunst</NavLink>
+			<NavLink href="/program/barneprogram/grønn-matkultur/#innhold">Grønn matkultur</NavLink>
+		</Nav>
 	</div>
 	<slot />
 </main>

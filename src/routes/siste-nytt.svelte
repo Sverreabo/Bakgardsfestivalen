@@ -14,6 +14,15 @@
 			Helt naturlig har brannvesenet veiledet oss til å begrense antall samtidig publikummere inne i
 			hver bakgård. Det kan altså bli fullt etter hvert.
 		</p>
+		<p>
+			Til å hjelpe oss med dette har Truls hos Kundeteller.no bidratt veldig godt. Han sørger for at
+			det settes opp en elektronisk føler som registrerer alle antallet inne og ut av portene. Dette
+			gir portvaktene god oversikt over antallet i sann tid.
+		</p>
+		<p>Det blir ikke tatt video av noen. Dette er bare en antallsregistrering.</p>
+		<p>
+			Tusen takk til Kundeteller.no. Det er flott at vi har denne kompetansen i nærområdet vårt.
+		</p>
 	</div>
 	<div class="nyhet container">
 		<h3>Økonomisk støtte</h3>
@@ -42,8 +51,5 @@
 		margin-right: 1rem;
 		height: auto;
 		float: left;
-	}
-	.nyhet {
-		margin-bottom: 4rem;
 	}
 </style>

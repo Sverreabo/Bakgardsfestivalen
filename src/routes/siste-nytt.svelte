@@ -9,19 +9,21 @@
 	</div>
 	<div class="nyhet container">
 		<h3>Hjelp til å ivareta sikkerhet</h3>
-		<img width="640" height="480" alt="Kundeteller" src="/Kundeteller.jpg" />
+		<img width="640" height="480" alt="Kundetelling" src="/Kundetelling.jpg" />
 		<p>
 			Helt naturlig har brannvesenet veiledet oss til å begrense antall samtidig publikummere inne i
 			hver bakgård. Det kan altså bli fullt etter hvert.
 		</p>
 		<p>
-			Til å hjelpe oss med dette har Truls hos Kundeteller.no bidratt veldig godt. Han sørger for at
-			det settes opp en elektronisk føler som registrerer alle antallet inne og ut av portene. Dette
-			gir portvaktene god oversikt over antallet i sann tid.
+			Til å hjelpe oss med dette har Truls hos <a target="_blank" href="https://kundetelling.no"
+				>Kundetelling.no</a
+			>
+			bidratt veldig godt. Han sørger for at det settes opp en elektronisk føler som registrerer alle
+			antallet inne og ut av portene. Dette gir portvaktene god oversikt over antallet i sann tid.
 		</p>
 		<p>Det blir ikke tatt video av noen. Dette er bare en antallsregistrering.</p>
 		<p>
-			Tusen takk til Kundeteller.no. Det er flott at vi har denne kompetansen i nærområdet vårt.
+			Tusen takk til Kundetelling.no. Det er flott at vi har denne kompetansen i nærområdet vårt.
 		</p>
 	</div>
 	<div class="nyhet container">

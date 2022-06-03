@@ -8,53 +8,48 @@
 		<p>Straks kommer detaljert program for hele festivalen.</p>
 	</div>
 	<div class="nyhet container">
+		<h3>Hjelp til å ivareta sikkerhet</h3>
+		<img width="640" height="480" alt="Kundeteller" src="/Kundeteller.jpg" />
+		<p>
+			Helt naturlig har brannvesenet veiledet oss til å begrense antall samtidig publikummere inne i
+			hver bakgård. Det kan altså bli fullt etter hvert.
+		</p>
+		<p>
+			Til å hjelpe oss med dette har Truls hos Kundeteller.no bidratt veldig godt. Han sørger for at
+			det settes opp en elektronisk føler som registrerer alle antallet inne og ut av portene. Dette
+			gir portvaktene god oversikt over antallet i sann tid.
+		</p>
+		<p>Det blir ikke tatt video av noen. Dette er bare en antallsregistrering.</p>
+		<p>
+			Tusen takk til Kundeteller.no. Det er flott at vi har denne kompetansen i nærområdet vårt.
+		</p>
+	</div>
+	<div class="nyhet container">
 		<h3>Økonomisk støtte</h3>
-		<div>
-			<div class="div-img">
-				<img
-					width="460"
-					height="640"
-					alt="Gavebrev til Bakgårdsfestivalen 2022."
-					src="/Økonomisk støtte.jpg"
-				/>
-			</div>
-			<div class="div-p">
-				<p>
-					Økonomisk støtte til gjennomføring av Bakgårdsfestivalen Torsdag 12. mai fikk mottok Jon
-					Edgar Karlsen på vegne av Foreningen Kammegaten 7 gavebrev fra Sparebank 1 stiftelsen til
-					gjennomføring Bakgårdsfestivalen 2022. Det er første gang en slik festival blir arrangert
-					og juryen la vekt på at en slik festival bidrar til en bredde og helhet i festivaltilbudet
-					i Tønsberg. Tidligere har Tønsberg kommune innvilget søknader om støtte og 15. mai var det
-					klart at også Tønsbergs Blad bidrar med støtte til dette non-profit arrangementet. Det har
-					hele tiden vært et mål å gi denne festivalen gratis til Tønsberg og publikum. Med disse
-					midlene blir det nå mulig.
-				</p>
-			</div>
-		</div>
+		<img
+			width="460"
+			height="640"
+			alt="Gavebrev til Bakgårdsfestivalen 2022."
+			src="/Økonomisk støtte.jpg"
+		/>
+		<p>
+			Økonomisk støtte til gjennomføring av Bakgårdsfestivalen Torsdag 12. mai fikk mottok Jon Edgar
+			Karlsen på vegne av Foreningen Kammegaten 7 gavebrev fra Sparebank 1 stiftelsen til
+			gjennomføring Bakgårdsfestivalen 2022. Det er første gang en slik festival blir arrangert og
+			juryen la vekt på at en slik festival bidrar til en bredde og helhet i festivaltilbudet i
+			Tønsberg. Tidligere har Tønsberg kommune innvilget søknader om støtte og 15. mai var det klart
+			at også Tønsbergs Blad bidrar med støtte til dette non-profit arrangementet. Det har hele
+			tiden vært et mål å gi denne festivalen gratis til Tønsberg og publikum. Med disse midlene
+			blir det nå mulig.
+		</p>
 	</div>
 </main>
 
 <style>
-	.nyhet > div {
-		display: flex;
-		justify-content: space-between;
-	}
-
-	.nyhet p {
-		margin-left: 5%;
-		margin-top: 0;
-	}
-
-	.nyhet > div > .div-img {
-		flex: 40%;
-	}
-
-	.nyhet div > .div-p {
-		flex: 60%;
-	}
-
 	.nyhet img {
-		width: 100%;
+		width: 50%;
+		margin-right: 1rem;
 		height: auto;
+		float: left;
 	}
 </style>

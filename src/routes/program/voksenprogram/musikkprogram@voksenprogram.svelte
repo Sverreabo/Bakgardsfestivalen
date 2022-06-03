@@ -30,6 +30,7 @@
 			</li>
 			<li>
 				<h3>20:00 til 22:00 - Martine Biong spiller</h3>
+				<img width="432" height="768" alt="Martine Biong" src="/Martine Biong.jpg" />
 			</li>
 			<li>
 				<h3>20:00 til 22:00 - Anette og Gutta spiller Teigen</h3>

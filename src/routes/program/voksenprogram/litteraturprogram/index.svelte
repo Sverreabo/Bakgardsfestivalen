@@ -92,6 +92,13 @@
 			</li>
 			<li>
 				<h3>18:00 - Tønsberg og jeg</h3>
+				<img
+					class="p50"
+					width="576"
+					height="768"
+					alt="Anders Børringbo"
+					src="/Anders med bok.jpg"
+				/>
 				<p>Om lokal identitet. Samtale med Anders Børringbo mfl. Vert: Thorleif Bugge</p>
 			</li>
 			<li>

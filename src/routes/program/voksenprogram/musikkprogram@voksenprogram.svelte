@@ -70,7 +70,17 @@
 		<h2>Lørdag 11.6</h2>
 		<ul>
 			<li>
-				<h3>20:00 til 22:00 - Rolf Dolven</h3>
+				<h3>20:00 til 22:00 - Rolf Dolven: Trubadur og visesanger</h3>
+				<img width="511" height="768" alt="Rolf Dolven" src="/Rolf Dolven.jpg" />
+				<p>
+					Rolf er en flittig brukt trubadur på ulike eventer og utesteder i vårt distrikt - og
+					stemningen er alltid på topp. Reportoiret er rikholdig med viser fra f.eks Vreswiijk,
+					Taube, Erik Bye, Terje Nilsen, Bremnes m.m. Gamle revyviser er også med på få fram
+					humøret, og poplåter fra 60/70 - tallet alltid like populært. Rolf har også egne sanger på
+					lager, ofte med lokalt preg. Han har utgitt albumet "Sommermosaikk", og singlene
+					"Færdersangen - med vind i seilene" og "Min tur". Disse finnes bl.a. på Spotify, Youtube
+					og andre strømmekanaler.
+				</p>
 			</li>
 			<li>
 				<h3>20:00 til 22:00 - Sviskeprinsene</h3>

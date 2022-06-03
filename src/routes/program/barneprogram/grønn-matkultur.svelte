@@ -54,8 +54,4 @@
 		font-style: italic;
 		font-size: 16px;
 	}
-
-	.p50 {
-		width: 50%;
-	}
 </style>

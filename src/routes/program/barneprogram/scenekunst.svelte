@@ -77,17 +77,9 @@
 </main>
 
 <style>
-	img,
-	figure,
 	video {
 		width: 100%;
 		height: auto;
 		margin: 0;
-	}
-
-	figcaption {
-		color: rgb(35, 31, 32);
-		font-style: italic;
-		font-size: 16px;
 	}
 </style>

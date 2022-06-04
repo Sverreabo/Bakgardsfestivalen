@@ -60,6 +60,7 @@
 					<li>17:00: Tegnegøy med den prisvinnende tegneren H.L.Phoenix</li>
 				</ul>
 				<p>Se videosnutt om Konstabel bannefinger:</p>
+				<!-- svelte-ignore a11y-media-has-caption -->
 				<video controls>
 					<source src="/Konstabel bannefinger.mp4" type="video/mp4" />
 				</video>

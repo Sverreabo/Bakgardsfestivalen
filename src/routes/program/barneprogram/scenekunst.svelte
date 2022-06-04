@@ -52,11 +52,17 @@
 			<li>
 				<h3>Tjøme Litterære Forum presenterer:</h3>
 				<ul>
-					<li>15:30: <i>Konstabel bannefinger</i> og <i>Doktor Even</i> med Kristian Mehlum Lie</li>
+					<li>
+						15:30: <i>Konstabel bannefinger</i> og <i>Doktor Even</i> med Kristian Mehlum Lie
+					</li>
 					<li>16:00: <i>Mot og Mysterier</i> med Frode Eie Larsen</li>
 					<li>16:30: Arkin- serien med H.L.Phoenix</li>
 					<li>17:00: Tegnegøy med den prisvinnende tegneren H.L.Phoenix</li>
 				</ul>
+				<p>Se videosnutt om Konstabel bannefinger:</p>
+				<video controls>
+					<source src="/Konstabel bannefinger.mp4" type="video/mp4" />
+				</video>
 			</li>
 		</ul>
 	</div>
@@ -64,7 +70,8 @@
 
 <style>
 	img,
-	figure {
+	figure,
+	video {
 		width: 100%;
 		height: auto;
 		margin: 0;

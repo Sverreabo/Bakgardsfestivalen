@@ -25,7 +25,14 @@
 		<ul>
 			<li>
 				<h3>11:00 - Tjøme Litterære Forum presenterer på BABELS:</h3>
-				<p>Utstillingen BARNDOM er åpen hele dagen</p>
+				<p>
+					Utstillingen BARNDOM er åpen hele dagen.
+					<a target="_blank" href="/BARNDOM.jpg">Les mer</a>
+				</p>
+				<p>Se også Tjøme Litterære Forums nettside:</p>
+				<a target="_blank" href="https://www.havfrua.com/tjome-litteraere-forum/">
+					https://www.havfrua.com/tjome-litteraere-forum/
+				</a>
 			</li>
 			<li>
 				<h3>11:30 - ÅPNING AV DAGEN ved KULTURSKOLEN: 3 elever spiller solo fiolin</h3>

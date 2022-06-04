@@ -5,7 +5,11 @@
 <main>
 	<div class="container">
 		<h2>Siste nytt</h2>
-		<p>Straks kommer detaljert program for hele festivalen.</p>
+		<p>
+			Programmet er nå ute. Du kan også
+			<a href="/Programmet for Bakgårdsfestivalen.xlsx">laste ned</a>
+			detaljert program som excel-ark.
+		</p>
 	</div>
 	<div class="nyhet container">
 		<h3>Hjelp til å ivareta sikkerhet</h3>

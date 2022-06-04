@@ -25,7 +25,14 @@
 		<ul>
 			<li>
 				<h3>11:00 - Tjøme Litterære Forum presenterer på BABELS:</h3>
-				<p>Utstillingen BARNDOM er åpen hele dagen</p>
+				<p>
+					Utstillingen BARNDOM er åpen hele dagen.
+					<a target="_blank" href="/BARNDOM.jpg">Les mer</a>
+				</p>
+				<p>Se også Tjøme Litterære Forums nettside:</p>
+				<a target="_blank" href="https://www.havfrua.com/tjome-litteraere-forum/">
+					https://www.havfrua.com/tjome-litteraere-forum/
+				</a>
 			</li>
 			<li>
 				<h3>11:30 - ÅPNING AV DAGEN ved KULTURSKOLEN: 3 elever spiller solo fiolin</h3>
@@ -52,27 +59,27 @@
 			<li>
 				<h3>Tjøme Litterære Forum presenterer:</h3>
 				<ul>
-					<li>15:30: <i>Konstabel bannefinger</i> og <i>Doktor Even</i> med Kristian Mehlum Lie</li>
+					<li>
+						15:30: <i>Konstabel bannefinger</i> og <i>Doktor Even</i> med Kristian Mehlum Lie
+					</li>
 					<li>16:00: <i>Mot og Mysterier</i> med Frode Eie Larsen</li>
 					<li>16:30: Arkin- serien med H.L.Phoenix</li>
 					<li>17:00: Tegnegøy med den prisvinnende tegneren H.L.Phoenix</li>
 				</ul>
+				<p>Se videosnutt om Konstabel bannefinger:</p>
+				<!-- svelte-ignore a11y-media-has-caption -->
+				<video controls>
+					<source src="/Konstabel bannefinger.mp4" type="video/mp4" />
+				</video>
 			</li>
 		</ul>
 	</div>
 </main>
 
 <style>
-	img,
-	figure {
+	video {
 		width: 100%;
 		height: auto;
 		margin: 0;
-	}
-
-	figcaption {
-		color: rgb(35, 31, 32);
-		font-style: italic;
-		font-size: 16px;
 	}
 </style>

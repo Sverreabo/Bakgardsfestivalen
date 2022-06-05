@@ -22,8 +22,8 @@
 			Til å hjelpe oss med dette har Truls hos <a target="_blank" href="https://kundetelling.no"
 				>Kundetelling.no</a
 			>
-			bidratt veldig godt. Han sørger for at det settes opp en elektronisk føler som registrerer alle
-			antallet inne og ut av portene. Dette gir portvaktene god oversikt over antallet i sann tid.
+			bidratt veldig godt. Han sørger for at det settes opp en elektronisk føler som registrerer antallet
+			inne og ut av portene. Dette gir portvaktene god oversikt over antallet i sann tid.
 		</p>
 		<p>Det blir ikke tatt video av noen. Dette er bare en antallsregistrering.</p>
 		<p>

@@ -12,10 +12,10 @@
 		<h2>Fredag 10.6</h2>
 		<ul>
 			<li>
-				<h3>11:30 - Kattas Figurteater</h3>
+				<h3>11:30 - Kattas Figurteater presenterer: Boss stjeler showet</h3>
 			</li>
 			<li>
-				<h3>13:00 - Kattas Figurteater</h3>
+				<h3>11:30 - Kattas Figurteater presenterer: Boss stjeler showet</h3>
 			</li>
 			<li>
 				<h3>15:00 til 17:00 - Tjøme Litterære Forum presenterer:</h3>
@@ -48,7 +48,7 @@
 				</ul>
 			</li>
 			<li>
-				<h3>14:00 - Kattas figurteater</h3>
+				<h3>14:00 - Kattas figurteater presenterer: Spillet i Fjæra</h3>
 			</li>
 			<li>
 				<h3>

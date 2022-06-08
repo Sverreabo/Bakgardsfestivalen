@@ -12,6 +12,16 @@
 		<h2>Fredag 10.6 - kl 20.00-23.00</h2>
 		<ul>
 			<li>
+				<h3>19:30 til 20:00 - Zina Jawad</h3>
+				<img width="780" height="768" alt="Zina Jawad" src="/Zina Jawad.jpg" />
+				<p>
+					Zina Jawad sto på scenen allerede som 4 åring og sang for full hals. Hun har alltid vært
+					glad i å synge, og har tidligere sunget med store artister som Jannicke Kruse, Rein
+					Aleksander og Anita Skorgan. Hun drømmer om å kunne fortsette å stå på scenen og
+					videreutvikle stemmen sin.
+				</p>
+			</li>
+			<li>
 				<h3>20:00 til 21:00 - Færderfyrene synger</h3>
 				<figure>
 					<img width="605" height="340" alt="Færderfyrene" src="/Færderfyrene.jpg" />
@@ -31,6 +41,20 @@
 			<li>
 				<h3>20:00 til 22:00 - Martine Biong spiller</h3>
 				<img width="432" height="768" alt="Martine Biong" src="/Martine Biong.jpg" />
+				<p>Vokalist, gitarist og komponist fra Nøtterøy.</p>
+				<p>
+					Som artist kan Martine Biong plasseres i den såkalte singer/songwriter-tradisjonen, med
+					referanser til artister som Mary Black, Nanci Griffith og Joan Baez. Hennes musikalske
+					landskap ligger i grenselandet mellom det norske, det keltiske og det amerikanske.
+					Tekstene på hennes første engelskspråklige plate <i>Uneasy hearts</i> inneholdt aktuelle historier
+					og kommentarer til et samfunn som ikke alltid er lett å mestre. Biong er også hestetrener med
+					terapiridning som spesialitet, og har bodd og hatt spillejobber i Aberdeen i Skottland og Nashville
+					i USA.
+				</p>
+				<p>
+					<i>Bells in the appletree</i> har et folk/country sound og hennes siste album
+					<i>Søster Lengsel</i> en gjendiktning og nye tekster på norsk.
+				</p>
 			</li>
 			<li>
 				<h3>20:00 til 22:00 - Anette og Gutta spiller Teigen</h3>

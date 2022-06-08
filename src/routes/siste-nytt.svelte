@@ -12,6 +12,35 @@
 		</p>
 	</div>
 	<div class="nyhet container">
+		<h3>Færderelever dekorerer bakgårdene</h3>
+		<img width="320" height="240" alt="Færderelever" src="/Færderelever.jpg" />
+		<img width="605" height="426" alt="" src="/Moodboard teater.jpg" />
+		<p>
+			Elever på utdanningsprogrammet kunst, design og arkitektur ved Færder videregående skole har
+			siden påske hatt som prosjektoppgave å utvikle design og dekorering av de fire bakgårdene.
+		</p>
+		<p>
+			Elevene ble delt i grupper etter interesse for scenekunst for barn, grønn matkultur,
+			litteratur og musikk. De har fått tildelt hver sin bakgård og en liten budsjettpost.
+		</p>
+		<p>
+			Det har vært spennende å følge elevene i deres kreative prosess fra å gjøre seg kjent med
+			ideene bak og innholdet i Bakgårdsfestivalen, til å utvikle mood boards fylt av kreative
+			ideer, for så å konkretisere seg om mulighetene innenfor en gitt tidsramme og økonomi.
+		</p>
+		<p>
+			Vi har utfordret elevene på å finne løsninger knyttet til inngangspartiet til de fire
+			bakgårdene, slik at publikum blir nysgjerrige på den opplevelsen som skal møte dem med temaet
+			for bakgården.
+		</p>
+		<p>
+			Torsdag 9. juni bruker elevene til å montere det de har laget eller kjøpt inn som
+			dekorelementer for sine løsninger. Dette blir spennende. Prosjektet er en utprøving av et
+			tettere samarbeid med skolen rundt framtidige Bakgårdsfestivaler. Vi er imponert over elevene
+			og lærernes interesse og engasjement for oppgaven.
+		</p>
+	</div>
+	<div class="nyhet container">
 		<h3>Hjelp til å ivareta sikkerhet</h3>
 		<img width="640" height="480" alt="Kundetelling" src="/Kundetelling.jpg" />
 		<p>
@@ -55,6 +84,7 @@
 	.nyhet img {
 		width: 50%;
 		margin-right: 1rem;
+		margin-bottom: 0.4rem;
 		height: auto;
 		float: left;
 	}

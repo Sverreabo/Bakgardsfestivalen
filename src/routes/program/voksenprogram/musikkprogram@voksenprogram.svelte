@@ -12,6 +12,16 @@
 		<h2>Fredag 10.6 - kl 20.00-23.00</h2>
 		<ul>
 			<li>
+				<h3>19:30 til 20:00 - Zina Jawad</h3>
+				<img width="780" height="768" alt="Zina Jawad" src="/Zina Jawad.jpg" />
+				<p>
+					Zina Jawad sto på scenen allerede som 4 åring og sang for full hals. Hun har alltid vært
+					glad i å synge, og har tidligere sunget med store artister som Jannicke Kruse, Rein
+					Aleksander og Anita Skorgan. Hun drømmer om å kunne fortsette å stå på scenen og
+					videreutvikle stemmen sin.
+				</p>
+			</li>
+			<li>
 				<h3>20:00 til 21:00 - Færderfyrene synger</h3>
 				<figure>
 					<img width="605" height="340" alt="Færderfyrene" src="/Færderfyrene.jpg" />

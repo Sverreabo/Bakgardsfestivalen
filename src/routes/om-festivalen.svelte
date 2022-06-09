@@ -26,9 +26,16 @@
 		kulturkrefter som har vist stor interesse. Sammen med noe økonomisk støtte gjør dette at hele
 		festivalen er gratis, både for små og store.
 	</p>
+	<p>Trenger du å komme i kontakt med ansvarlige for festivalen, kontakt prosjektgruppa:</p>
+	<p>Thorleif Bugge 958 59 223</p>
+	<p>Jan Mehlum 922 65 244</p>
+	<p>Tor Inge Moseid 908 74 975</p>
+	<p>Jon Edgar Karlsen 957 62 843</p>
+	<p>Tjøme Litterære Forum, Audhild Lønne 974 83 411</p>
+	<br />
 	<i>
 		*K-7 er en ideell forening der medlemmene har tilgang til en arbeidsplass og et sosialt
-		fellesskap I Kammegaten 7. Flere av medlemmene i K-7 har interesse og engasjement for prosjekter
+		fellesskap i Kammegaten 7. Flere av medlemmene i K-7 har interesse og engasjement for prosjekter
 		som kan bidra til en positiv byutvikling i Tønsberg. Alle arbeider frivillig for dette.
 	</i>
 </main>

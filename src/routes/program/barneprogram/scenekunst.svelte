@@ -15,7 +15,7 @@
 				<h3>11:30 - Kattas Figurteater presenterer: Boss stjeler showet</h3>
 			</li>
 			<li>
-				<h3>11:30 - Kattas Figurteater presenterer: Boss stjeler showet</h3>
+				<h3>13:00 - Kattas Figurteater presenterer: Boss stjeler showet</h3>
 			</li>
 			<li>
 				<h3>15:00 til 17:00 - Tjøme Litterære Forum presenterer:</h3>
@@ -43,7 +43,7 @@
 			<li>
 				<h3>Tjøme Litterære Forum presenterer:</h3>
 				<ul>
-					<li>13:00: <i>Høna med bæsj i ryggesekken </i></li>
+					<li>13:00: <i>Den lille høna med bæsj i ryggsekken</i></li>
 					<li>13:30: <i>Grevlingsanger</i> med Even Tømte</li>
 				</ul>
 			</li>

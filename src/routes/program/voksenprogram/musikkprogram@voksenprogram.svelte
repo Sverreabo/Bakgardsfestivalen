@@ -120,16 +120,20 @@
 				</figure>
 			</li>
 			<li>
-				<h3>22:00 til 23:00 - HERRENE I HAVEN</h3>
+				<h3>22:00 til 23:00 - <s>HERRENE I HAVEN</s> (AVLYST)</h3>
 				<figure>
 					<img width="720" height="480" alt="HERRENE I HAVEN" src="/HERRENE I HAVEN.jpg" />
-					<figcaption>
+					<!-- <figcaption>
 						Fra venstre; Olaf Knerten Kamfjord, bass, Terje Johannesen, gitar/trompet, Rune Jensen,
 						tangenter, Reidar Vinje Stensvold, vokal/gitar, Stein Erik Lunde, tekster, Jon Kirkebø
 						Rosslund, perkusjon.
-					</figcaption>
+					</figcaption> -->
 				</figure>
 				<p>
+					På grunn av sykdom er opptredenen fra HERRENE I HAVEN avlyst. En overraskelseserstatning
+					kommer.
+				</p>
+				<!-- <p>
 					Herrene har gitt ut fire album, og er nå i prosess med et prosjekt, hvor første EP i en
 					større samling slippes i løpet av sommeren. Det er i alt 25 nyskrevne sanger som
 					suksessivt skal slippes i EP format under en lengre periode. Tekstene er skrevet av Stein
@@ -143,7 +147,7 @@
 				<p>
 					Tor Hammerø skrev i bloggen Tor de Jazz, at; Herrene i Haven har mye på hjertet og vet
 					hvordan det skal formidles.`
-				</p>
+				</p> -->
 			</li>
 		</ul>
 	</div>

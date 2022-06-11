@@ -12,6 +12,10 @@
 		</p>
 	</div>
 	<div class="nyhet container">
+		<h3>Bandet HERRENE I HAVEN er avlyst</h3>
+		På grunn av sykdom er opptredenen fra HERRENE I HAVEN avlyst. En overraskelseserstatning kommer.
+	</div>
+	<div class="nyhet container">
 		<h3>Færderelever dekorerer bakgårdene</h3>
 		<img width="320" height="240" alt="Færderelever" src="/Færderelever.jpg" />
 		<img width="605" height="426" alt="" src="/Moodboard teater.jpg" />

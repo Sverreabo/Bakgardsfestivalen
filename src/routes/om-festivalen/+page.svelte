@@ -4,7 +4,6 @@
 
 <main class="container">
 	<h2>BAKGÅRDSFESTIVALEN I TØNSBERG SENTRUM FREDAG 10. OG LØRDAG 11.JUNI 2022</h2>
-
 	<p>
 		Etter den vellykkede gjenåpningen av uterestauranten «Friluften» som pop-sted, sommeren 2021,
 		vil Foreningen K-7 * denne sommeren arrangere en Bakgårdsfestival i det samme kvartalet I dette

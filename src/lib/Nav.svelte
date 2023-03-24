@@ -18,6 +18,7 @@
 		font-size: 26px;
 		padding: 0.1rem;
 		min-width: 8.9rem;
+		text-decoration: underline;
 	}
 
 	main :global(a) {
@@ -26,7 +27,6 @@
 		border: none;
 		font-size: 28px;
 		padding: 0.3rem 0.3rem;
-		text-decoration: underline;
 		color: rgb(255, 255, 255) !important;
 	}
 

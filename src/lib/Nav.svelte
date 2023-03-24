@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<nav class:small>
+	<nav class={small ? "small" : ""}>
 		<slot />
 	</nav>
 </main>
@@ -14,18 +14,19 @@
 		flex-direction: column;
 	}
 
-	main :global(:not(.small) a) {
-		font-size: 28px;
-		padding: 0.3rem 0.3rem;
+	main :global(.small a) {
+		font-size: 26px;
+		padding: 0.1rem;
+		min-width: 8.9rem;
 	}
 
 	main :global(a) {
 		text-align: left;
 		background: none;
 		border: none;
-		font-size: 24px;
-		padding: 0 0.05rem;
-		text-decoration: none !important;
+		font-size: 28px;
+		padding: 0.3rem 0.3rem;
+		text-decoration: underline;
 		color: rgb(255, 255, 255) !important;
 	}
 
@@ -33,17 +34,17 @@
 	main :global(a:focus-visible) {
 		background-color: rgb(130, 194, 117);
 		cursor: pointer;
-		text-decoration: none;
 	}
 
 	main :global(a.active) {
 		font-weight: 600;
+		text-decoration: none;
 	}
 
 	@media (max-width: 640px) {
 		main :global(.small a) {
 			font-size: 28px;
-			padding: 0.2rem 0.2rem;
+			padding: 0.3rem 0.3rem;
 		}
 	}
 </style>

@@ -3,7 +3,7 @@
 	import "$lib/app.css";
 </script>
 
-<main class="flex flex-space-between flex-column">
+<main>
 	<div class="varsling">
 		<p class="container">Program kommer snart - følg med!</p>
 	</div>

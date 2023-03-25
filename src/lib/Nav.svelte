@@ -15,10 +15,6 @@
 	}
 
 	main :global(.small a) {
-		font-size: 24px;
-		padding: 0.1rem;
-		min-width: 8.9rem;
-		max-width: 8.9rem;
 		text-decoration: underline;
 	}
 
@@ -43,10 +39,12 @@
 		text-decoration: none;
 	}
 
-	@media (max-width: 640px) {
+	@media (min-width: 640px) {
 		main :global(.small a) {
-			font-size: 28px;
-			padding: 0.3rem 0.3rem;
+			font-size: 24px;
+			padding: 0.1rem;
+			min-width: 8.9rem;
+			max-width: 8.9rem;
 		}
 	}
 </style>

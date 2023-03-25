@@ -9,7 +9,9 @@
 			<div class="Nav">
 				<Nav small={true}>
 					<!-- <NavLink href="/program/#innhold">Program</NavLink> -->
-					<NavLink href="/hjelpe-til/#innhold">Hjelpe til?</NavLink>
+					<NavLink>Grønn matkultur</NavLink>
+					<NavLink>Litteratur</NavLink>
+					<NavLink>Musikk</NavLink>
 				</Nav>
 			</div>
 			<div class="relative">

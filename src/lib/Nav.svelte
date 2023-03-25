@@ -15,9 +15,10 @@
 	}
 
 	main :global(.small a) {
-		font-size: 26px;
+		font-size: 24px;
 		padding: 0.1rem;
 		min-width: 8.9rem;
+		max-width: 8.9rem;
 		text-decoration: underline;
 	}
 
@@ -28,10 +29,11 @@
 		font-size: 28px;
 		padding: 0.3rem 0.3rem;
 		color: rgb(255, 255, 255) !important;
+		cursor: default;
 	}
 
-	main :global(a:hover),
-	main :global(a:focus-visible) {
+	main :global(a.clickable:hover),
+	main :global(a.clickabe:focus-visible) {
 		background-color: rgb(130, 194, 117);
 		cursor: pointer;
 	}

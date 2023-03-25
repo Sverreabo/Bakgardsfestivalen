@@ -39,7 +39,7 @@
 		text-decoration: none;
 	}
 
-	@media (min-width: 640px) {
+	@media (min-width: 641px) {
 		main :global(.small a) {
 			font-size: 24px;
 			padding: 0.1rem;

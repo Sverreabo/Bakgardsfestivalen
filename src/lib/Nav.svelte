@@ -14,8 +14,11 @@
 		flex-direction: column;
 	}
 
-	main :global(.small a) {
+	main :global(.small a.clickable) {
 		text-decoration: underline;
+	}
+	main :global(.small a:not(.clickable)) {
+		text-decoration: none;
 	}
 
 	main :global(a) {

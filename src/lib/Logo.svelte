@@ -26,9 +26,8 @@
 			</div>
 		</div>
 
-		<div class="flex flex-wrap flex-space-between">
-			<h1>Tønsberg</h1>
-			<h1>8-10 juni 2023</h1>
+		<div class="center-text">
+			<h1>Tønsberg 8-10 juni 2023</h1>
 		</div>
 	</div>
 </main>

@@ -4,7 +4,7 @@
 </script>
 
 <main>
-	<div class="varsling">
+	<div class="varsling center-text">
 		<p class="container">Program kommer snart - følg med!</p>
 	</div>
 	<div>

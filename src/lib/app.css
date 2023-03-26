@@ -104,6 +104,10 @@ button:focus {
 	margin: 0 auto;
 }
 
+.center-text {
+	text-align: center;
+}
+
 .relative {
 	position: relative;
 }

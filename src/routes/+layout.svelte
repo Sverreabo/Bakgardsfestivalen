@@ -1,10 +1,12 @@
 <script>
-	import Logo from '$lib/Logo.svelte';
-	import '$lib/app.css';
-	import { page } from '$app/stores';
+	import Logo from "$lib/Logo.svelte";
+	import "$lib/app.css";
 </script>
 
-<main class="flex flex-space-between flex-column">
+<main>
+	<div class="varsling center-text">
+		<p class="container">Program kommer snart - følg med!</p>
+	</div>
 	<div>
 		<Logo />
 
@@ -15,8 +17,12 @@
 </main>
 
 <style>
+	.varsling {
+		background-color: rgb(255, 219, 125);
+		font-size: 1.2rem;
+	}
+
 	main {
 		height: 100vh;
-		padding-top: 2vw;
 	}
 </style>

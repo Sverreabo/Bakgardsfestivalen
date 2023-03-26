@@ -1,5 +1,6 @@
 <script>
-	import Nav from '$lib/Nav.svelte';
+	import Nav from "$lib/Nav.svelte";
+	import NavLink from "$lib/NavLink.svelte";
 </script>
 
 <main>
@@ -7,25 +8,26 @@
 		<div class="relative">
 			<div class="Nav">
 				<Nav small={true}>
-					<a href="/om-festivalen#innhold">Om festivalen</a>
-
-					<a href="/program#innhold">Program</a>
-
-					<a href="/grønn-matkultur#innhold">Grønn matkultur</a>
-
-					<a href="/siste-nytt#innhold">Siste nytt</a>
-					<a href="/hjelpe-til#innhold">Hjelpe til?</a>
+					<!-- <NavLink href="/program/#innhold">Program</NavLink> -->
+					<NavLink>Grønn matkultur</NavLink>
+					<NavLink>Litteratur</NavLink>
+					<NavLink>Musikk</NavLink>
 				</Nav>
 			</div>
 			<div class="relative">
-				<img id="logo-img" width="512" height="613" alt="" src="/logo.svg" />
+				<img
+					id="logo-img"
+					width="512"
+					height="613"
+					alt=""
+					src="/logo.svg"
+				/>
 				<img id="prikk-img" alt="" src="/ring_over_aa.svg" />
 			</div>
 		</div>
 
-		<div class="flex flex-wrap flex-space-between">
-			<h1>Tønsberg</h1>
-			<h1>10.-11. juni 2022</h1>
+		<div class="center-text">
+			<h1>Tønsberg 8-10 juni 2023</h1>
 		</div>
 	</div>
 </main>

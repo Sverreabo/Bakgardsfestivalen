@@ -14,9 +14,6 @@
 		flex-direction: column;
 	}
 
-	main :global(.small a.clickable) {
-		text-decoration: underline;
-	}
 	main :global(.small a:not(.clickable)) {
 		text-decoration: none;
 	}
@@ -29,6 +26,10 @@
 		padding: 0.3rem 0.3rem;
 		color: rgb(255, 255, 255) !important;
 		cursor: default;
+	}
+
+	main :global(.small a) {
+		padding: 0.2rem 0.2rem;
 	}
 
 	main :global(a.clickable:hover),
@@ -48,6 +49,9 @@
 			padding: 0 0.05rem;
 			min-width: 8.9rem;
 			max-width: 8.9rem;
+		}
+		main :global(.small a.clickable) {
+			text-decoration: underline;
 		}
 	}
 </style>

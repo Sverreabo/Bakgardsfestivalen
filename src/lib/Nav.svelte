@@ -45,7 +45,7 @@
 	@media (min-width: 641px) {
 		main :global(.small a) {
 			font-size: 24px;
-			padding: 0.1rem;
+			padding: 0 0.05rem;
 			min-width: 8.9rem;
 			max-width: 8.9rem;
 		}

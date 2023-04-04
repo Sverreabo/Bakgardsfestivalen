@@ -46,7 +46,6 @@
 
 	h1 {
 		margin: 0 0.12rem;
-		/* color: rgb(35, 31, 32); */
 		font-size: 2.5rem;
 		letter-spacing: -1px;
 	}

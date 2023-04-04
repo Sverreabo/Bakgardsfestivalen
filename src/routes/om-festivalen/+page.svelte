@@ -3,38 +3,83 @@
 </svelte:head>
 
 <main class="container">
-	<h2>BAKGÅRDSFESTIVALEN I TØNSBERG SENTRUM FREDAG 10. OG LØRDAG 11.JUNI 2022</h2>
-	<p>
-		Etter den vellykkede gjenåpningen av uterestauranten «Friluften» som pop-sted, sommeren 2021,
-		vil Foreningen K-7 * denne sommeren arrangere en Bakgårdsfestival i det samme kvartalet I dette
-		nye prosjektet vil vi rette oppmerksomheten på byrommet og kvartalet som er rammet inn av
-		Kammegaten, Øvre Langgate, Torvgaten og Fayes gate. Innenfor dette området er det i dag tre
-		relativt store bakgårder, og en noe mindre. Etter god dialog erfarer vi stor interesse for
-		prosjektet fra gårdeiere, fra Tønsberg kommune, Tønsberg Næringsforening, TønsbergLivet, lokale
-		sponsorer og ikke minst en rekke ulike kulturorganisasjoner i byen.
-	</p>
-	<p>
-		Festivalen vil bli avholdt fredag 10. og lørdag 11. juni 2022, der bakgårdene i dette området
-		blir et utvidet kultur- og festivalområde. I tillegg vil deler av Kammegaten bli sperret for
-		trafikk, og tilrettelagt som kjernen i festivalområdet. Modellen for festivalen er at hver
-		bakgård knyttes til en bestemt kulturform/ytring. En bakgård for musikk, en for litteratur, en
-		for dans og teater (scenekunst), en for grønn matkultur. Festivalen vil på dagtid ha et variert
-		barneprogram, mens kveldene er for de voksne. Festivalens barneprogram gjennomføres i tett
-		samarbeid med Tjøme Litterære Forum. Bakgårdsfestivalen er en lokal festival, den har en klar
-		grønn profil og målgruppen er primært folk fra vår region. Vi har derfor utfordret lokale
-		kulturkrefter som har vist stor interesse. Sammen med noe økonomisk støtte gjør dette at hele
-		festivalen er gratis, både for små og store.
-	</p>
-	<p>Trenger du å komme i kontakt med ansvarlige for festivalen, kontakt prosjektgruppa:</p>
-	<p>Thorleif Bugge 958 59 223</p>
-	<p>Jan Mehlum 922 65 244</p>
-	<p>Tor Inge Moseid 908 74 975</p>
-	<p>Jon Edgar Karlsen 957 62 843</p>
-	<p>Tjøme Litterære Forum, Audhild Lønne 974 83 411</p>
-	<br />
-	<i>
-		*K-7 er en ideell forening der medlemmene har tilgang til en arbeidsplass og et sosialt
-		fellesskap i Kammegaten 7. Flere av medlemmene i K-7 har interesse og engasjement for prosjekter
-		som kan bidra til en positiv byutvikling i Tønsberg. Alle arbeider frivillig for dette.
-	</i>
+	<h2>
+		BAKGÅRDSFESTIVALEN - KULTUR OG GRØNN PROFIL I SENTRUM Tønsberg 8-10.
+		juni 2023
+	</h2>
+	<section>
+		<h3>Foreningen Kammegaten 7 (K-7) står bak</h3>
+		<p>
+			K-7 er en ideell forening der medlemmene har tilgang til en
+			skrivestue, arbeidsplass og et sosialt fellesskap I Kammegaten 7.
+			Mange av medlemmene er pensjonister. Foreningen har stor interesse
+			for prosjekter som kan utvikle Tønsberg og det kulturelle miljøet i
+			sentrum. Et eksempel er det spontane Friluften-prosjektet -
+			«Nostalgi i sentrum» i august 2021. En pop-up uterestaurant på en
+			velkjent tomt. Foreningen K-7 fulgte opp i juni 2022 med en
+			to-dagers bakgårdsfestival. Denne festivalen ble vellykket og i år
+			forsetter vi med en ny og utvidet bakgårdsfestival. Med kulturelle
+			uttrykk og en grønn profil. Fortsatt ligger mange bakgårder ubrukt
+			og benyttes primært til bilparkering på dagtid. I en videre
+			utvikling av Tønsberg sentrum, med handel, kultur og opplevelser i
+			fokus, vil en ny oppmerksomhet på disse arealene være svært aktuell,
+			som ledd i en positiv byutvikling.
+		</p>
+	</section>
+	<section>
+		<h3>Muligheter i bakgårdene</h3>
+		<p>
+			I prosjektet BAKGÅRDSFESTIVALEN 2023, vil vi primært rette
+			oppmerksomhet på kvartalet som er rammet inn av Kammegaten, Øvre
+			Langgate, Torvgaten og Fayes gate. Innenfor dette området er det i
+			dag to relativt store bakgårder, og to noe mindre, som vi ønsker som
+			festivalområde. Disse fire bakgårdene kan stenges og låses mot
+			gaten, slik at sikringen er god når bakgårdene ikke er i bruk. Vi
+			erfarer stor interesse for prosjektet fra gårdeiere, fra Tønsberg
+			kommune, Tønsberg Næringsforening, fra lokale sponsorer og fra de
+			mange ulike kulturorganisasjonene i byen. De musikere, forfattere og
+			andre kulturaktører som vi ønsker på scenene stiller seg svært
+			positive til Bakgårdsfestivalen.
+		</p>
+		<p>
+			Festivalen vil bli avholdt fra <b
+				>torsdag 8. til lørdag 10. juni 2023</b
+			>, der bakgårdene i dette området blir et utvidet kultur- og
+			festivalområde. I tillegg vil deler av Øvre langgate bli sperret for
+			trafikk. Festivalen legger vekt på litteratur, musikk, scenekunst og
+			grønn matkultur.
+		</p>
+	</section>
+	<section>
+		<h3>Lokal identitet og grønn profil</h3>
+		<p>
+			Festivalen skal ha en tydelig lokal forankring og en grønn profil.
+			Programmet på dagtid skal ha et spesielt fokus på <b>barn og unge</b
+			>. Vi ønsker at festivalen gjennomsyres av ulike uttrykk og temaer
+			som viser at Tønsberg by og sentrum får et grønt avtrykk. Konkret
+			gjennom matopplevelser (kortreist, økologisk, sesongbasert)
+			beplantning (trær, busker, blomster), alternativ mobilitet i sentrum
+			(bil-ringer, delebil, kollektivtransport osv), og ved å vise fram
+			lokalt utviklede produkter og løsninger for et grønt skifte (både
+			veletablerte virksomheter og nye grundere). Festivalen ønsker å
+			vektlegge gjenbruk og det sirkulære, benytte miljøvennlig emballasje
+			osv, dette for å øke bevisstheten om betydningen av det grønne
+			skiftet.
+		</p>
+	</section>
+	<section>
+		<h3>Økonomisk sikkerhet for en non-profit organisert festival</h3>
+		<p>
+			Foreningen K-7 har satt sammen en prosjektgruppe og trukket med
+			flere ressurspersoner, alt på frivillig basis. Avtaler, logistikk og
+			infrastruktur krever en profesjonell holdning og struktur.
+			Festivalen har engasjert en prosjektleder i delstilling til dette.
+			Likevel, vi understreker at dette er et non-profit prosjekt for K-7.
+			Et eventuelt overskudd vil enten tilfalle et humanitært
+			prosjekt/tiltak eller bli videreført i nye bakgårdsfestivaler.
+			Samtidig vil vi ikke underslå at Bakgårdsfestivalen 2023 er et stort
+			løft som trenger et solid økonomisk fundament. Vi håper på din
+			støtte og bistand.
+		</p>
+	</section>
 </main>

@@ -10,11 +10,11 @@ ul {
     list-style: disc;
 }
 
-.program > ul {
+.program>ul {
     padding-left: 5%;
     list-style: none;
 }
 
-.program > ul > li {
+.program>ul>li {
     margin-bottom: 2rem;
 }

@@ -94,6 +94,18 @@ button:focus {
 	flex-direction: column;
 }
 
+.flex-children-grow>* {
+	flex-grow: 1;
+}
+
+.tight-text p,
+.tight-text h1,
+.tight-text h2,
+.tight-text h3,
+.tight-text h4 {
+	margin: 0.2rem 0;
+}
+
 .container {
 	width: var(--container-width);
 	padding: 0.5rem 0;
@@ -106,6 +118,10 @@ button:focus {
 
 .center-text {
 	text-align: center;
+}
+
+.right-text {
+	text-align: right;
 }
 
 .relative {

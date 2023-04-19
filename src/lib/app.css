@@ -1,5 +1,6 @@
 :root {
 	--container-width: min(80vw, 512px);
+	--pink: rgb(206, 17, 140);
 }
 
 * {
@@ -178,6 +179,10 @@ button:focus {
 
 .p50 {
 	width: 50% !important;
+}
+
+.pink {
+	color: var(--pink);
 }
 
 @media (max-width: 640px) {

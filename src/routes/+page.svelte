@@ -5,7 +5,7 @@
 <main class="container">
 	<div class="tight-text flex flex-children-grow">
 		<div class="right-text">
-			<h3>Litteratur</h3>
+			<h3 class="pink">LITTERATUR</h3>
 			<p>Thomas Hylland Eriksen</p>
 			<p>Abida Raja</p>
 			<p>Anne Sverdrup-Thygeson</p>
@@ -15,8 +15,8 @@
 			<p>med flere...</p>
 		</div>
 		<div id="vertical-line" />
-		<div class="">
-			<h3>Musikk</h3>
+		<div>
+			<h3 class="pink">MUSIKK</h3>
 			<p>Linda Kvam Band</p>
 			<p>Goylem Space Klezmer</p>
 			<p>Pipe Lines</p>
@@ -37,7 +37,7 @@
 
 <style>
 	#vertical-line {
-		border-right: 0.1rem solid black;
+		border-right: 0.1rem solid var(--pink);
 		margin: 0 1rem;
 		flex-grow: 0;
 	}

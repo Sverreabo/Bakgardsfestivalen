@@ -50,8 +50,5 @@
 			min-width: 8.9rem;
 			max-width: 8.9rem;
 		}
-		main :global(.small a.clickable) {
-			text-decoration: underline;
-		}
 	}
 </style>

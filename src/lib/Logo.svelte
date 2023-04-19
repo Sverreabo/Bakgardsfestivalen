@@ -8,10 +8,17 @@
 		<div class="relative">
 			<div class="Nav">
 				<Nav small={true}>
+					<NavLink href="/om-festivalen/#innhold">
+						Om festivalen
+					</NavLink>
 					<!-- <NavLink href="/program/#innhold">Program</NavLink> -->
-					<NavLink>Grønn matkultur</NavLink>
-					<NavLink>Litteratur</NavLink>
-					<NavLink>Musikk</NavLink>
+					<NavLink href="/grønn-matkultur/#innhold"
+						>Grønn matkultur</NavLink
+					>
+					<NavLink href="/siste-nytt/#innhold">Siste nytt</NavLink>
+					<NavLink href="/bli-frivillig/#innhold"
+						>Bli frivillig?</NavLink
+					>
 				</Nav>
 			</div>
 			<div class="relative">
@@ -33,9 +40,12 @@
 </main>
 
 <style>
+	main {
+		margin: 0.8rem 0;
+	}
+
 	h1 {
 		margin: 0 0.12rem;
-		/* color: rgb(35, 31, 32); */
 		font-size: 2.5rem;
 		letter-spacing: -1px;
 	}

@@ -5,7 +5,7 @@
 
 <main>
 	<div class="varsling center-text">
-		<p class="container">Program kommer snart - følg med!</p>
+		<p>Program kommer snart - følg med!</p>
 	</div>
 	<div>
 		<Logo />
@@ -22,7 +22,12 @@
 		font-size: 1.2rem;
 	}
 
-	main {
-		height: 100vh;
+	.varsling > p {
+		margin: 0;
+		padding: 0.5rem 0;
+	}
+
+	#innhold {
+		padding-bottom: 0.5rem;
 	}
 </style>

@@ -109,7 +109,7 @@ button:focus {
 }
 
 .flex-children-grow>* {
-	flex-grow: 1;
+	flex: 1 0 0;
 }
 
 .tight-text p,

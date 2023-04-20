@@ -5,7 +5,15 @@
 <main>
 	<div class="container">
 		<h2>Siste nytt</h2>
-		<p>Informasjon kommer - følg med!</p>
+		<p>
+			Festivalen har fått omtale i TB: <a
+				href="https://www.tb.no/fyller-opp-bakgardene-i-sentrum-med-musikk-mat-og-litteratur-vi-ma-prove-a-trekke-folk-opp-i-byen/s/5-76-2033845"
+				target="_blank"
+				rel="noreferrer"
+				>https://www.tb.no/fyller-opp-bakgardene-i-sentrum-med-musikk-mat-og-litteratur-vi-ma-prove-a-trekke-folk-opp-i-byen/s/5-76-2033845</a
+			>
+		</p>
+		<p>Mer informasjon kommer - følg med!</p>
 	</div>
 </main>
 

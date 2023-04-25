@@ -46,7 +46,7 @@
 		<div class="program">
 			<h2>Fredag 11:00 - 14:00</h2>
 			<ul>
-				<li><p>Lukket program for inviterte barnehager</p></li>
+				<li><p>Sentrumsnære barnehager er spesielt invitert</p></li>
 			</ul>
 		</div>
 		<div class="program">

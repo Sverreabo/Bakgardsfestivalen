@@ -1,6 +1,10 @@
+<script>
+    import Tilbake from "$lib/Tilbake.svelte";
+</script>
+
 <main>
-    <div class="container tilbake">
-        <a href="/program/#innhold">&#8249; Tilbake</a>
-    </div>
+    <Tilbake
+        ignorer={["/program/torsdag", "/program/fredag/", "/program/lørdag/"]}
+    />
     <slot />
 </main>

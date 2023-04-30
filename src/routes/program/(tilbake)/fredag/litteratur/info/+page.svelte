@@ -1,3 +1,7 @@
+<script>
+    import "$lib/info.css";
+</script>
+
 <svelte:head>
     <title>Info til program</title>
 </svelte:head>
@@ -30,15 +34,45 @@
             Nguyen, Camilla Victoria Aubert Hellern, Kari Plyhn og Kjersti Wold.
         </p>
     </div>
+    <div id="Anne-Sverdrup-Thygeson">
+        <figure class="p40 float-right">
+            <img
+                width="1772"
+                height="2551"
+                alt="'På naturens skuldre' Sverdrup-Thygeson"
+                src="/Paa naturens skuldre.jpg"
+            />
+            <figcaption>
+                <i>På naturens skuldre</i> av Anne Sverdrup-Thygeson
+            </figcaption>
+        </figure>
+        <p>
+            <span class="navn">Anne Sverdrup-Thygeson</span> er en av Norges
+            mest profilerte og entusiastiske formidlere av kunnskap om insekter
+            og natur. Til daglig er hun professor ved Norges miljø- og
+            biovitenskaplig universitet på Ås der hun forsker og underviser i
+            naturforvaltning og skogens mangfold. Bøkene
+            <i>Insektenes planet</i>,
+            <i>Insektenes hemmeligheter</i>
+            og <i>På naturens skuldre</i>
+            er populære og engasjerende bøker. Hun har mottatt en rekke priser.
+        </p>
+    </div>
+    <div id="Lars-Elling">
+        <p>
+            <span class="navn">Lars Elling</span> ga i 2022 ut den kritikerroste
+            romanen
+            <i>Fyrstene av Finntjern</i>. Kritiker Simen Hovdenakk skriver at
+            Elling på samme tid er lyrisk og sprudlende, alvorlig og tøysete.
+            Romanen regnes av mange som en av fjorårets aller beste. Lars Elling
+            er forøvrig mest kjent som billedkunstner og er utdannet ved
+            Kunsthøgskolen i Bergen.
+        </p>
+    </div>
+    <div id="Thomas-Hylland-Eriksen">
+        <h1>INFO MANGLER</h1>
+        <p>
+            <span class="navn">Thomas Hylland-Eriksen</span>
+        </p>
+    </div>
 </main>
-
-<style>
-    .navn {
-        text-decoration: underline;
-        font-size: 1.2rem;
-    }
-
-    p {
-        margin-bottom: 1.5rem;
-    }
-</style>

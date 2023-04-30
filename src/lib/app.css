@@ -28,7 +28,7 @@ body {
 }
 
 a {
-	color: rgb(0, 100, 200);
+	color: rgb(0, 80, 160);
 	text-decoration: none;
 }
 
@@ -36,8 +36,13 @@ a:hover {
 	text-decoration: underline;
 }
 
-a:visited {
-	color: rgb(0, 80, 160);
+.program a {
+	text-decoration: underline;
+	color: black;
+}
+
+.program a:hover {
+	text-decoration: none;
 }
 
 label {
@@ -68,6 +73,14 @@ section:not(:last-of-type) {
 img {
 	width: 100%;
 	height: auto;
+}
+
+figure {
+	margin: 0;
+}
+
+figcaption {
+	color: rgb(35, 31, 32);
 }
 
 button {
@@ -138,6 +151,12 @@ button:focus {
 	text-align: right;
 }
 
+.float-right {
+	margin-left: 0.5rem;
+	margin-bottom: 0.25rem;
+	float: right;
+}
+
 .tilbake>a {
 	margin: 0.5rem 0;
 	color: rgb(35, 31, 32);
@@ -179,6 +198,10 @@ button:focus {
 
 .p50 {
 	width: 50% !important;
+}
+
+.p40 {
+	width: 40%;
 }
 
 .pink {

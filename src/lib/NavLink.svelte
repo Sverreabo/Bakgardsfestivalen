@@ -1,7 +1,13 @@
 <script>
 	export let href = "";
 	import { page } from "$app/stores";
-	$: href_is_current = $page.url.pathname === encodeURI(href.split("#")[0]);
+	function matches_url(url, to_match) {
+		return url.substring(0, to_match.length) === to_match;
+	}
+	$: href_is_current = matches_url(
+		$page.url.pathname,
+		encodeURI(href).split("#")[0]
+	);
 </script>
 
 <main>

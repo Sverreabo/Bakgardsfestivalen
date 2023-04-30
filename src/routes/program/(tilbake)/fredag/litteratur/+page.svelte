@@ -42,7 +42,7 @@
                 </figure>
                 <p>
                     <i>Skjærgård, sommer og proseccokrim</i>.
-                    <a href="info/#Dorthe-Erischsen">Dorthe Erichsen</a>
+                    <a href="info/#Dorthe-Erichsen">Dorthe Erichsen</a>
                     og
                     <a href="info/#Lene-Lauritzen-Kjølner"
                         >Lene Lauritzen Kjølner</a

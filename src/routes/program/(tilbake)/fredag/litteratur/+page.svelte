@@ -60,11 +60,6 @@
                     Lisbeth Thoresen)
                 </p>
             </li>
-            <li>
-                Med blikk for naturen Forfatterne Anne Sverdrup-Thygesen og Lars
-                Elling i samtale med Stein Erik Lunde om bøkene Insekter i Norge
-                og Fyrstene av Finntjern
-            </li>
         </ul>
 
         <h3>17:00</h3>

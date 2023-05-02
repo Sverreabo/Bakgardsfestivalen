@@ -20,6 +20,33 @@
         <h3>16:00</h3>
         <ul>
             <li>
+                <figure>
+                    <div class="flex">
+                        <div>
+                            <img
+                                width="554"
+                                height="774"
+                                alt="Elise Dahle"
+                                src="/Elise Dahle.jpg"
+                            />
+                        </div>
+                        <div>
+                            <img
+                                width="554"
+                                height="774"
+                                alt="Tobias Nørstebø-Vartdal"
+                                src="/Tobias Nørstebø-Vartdal.jpg"
+                            />
+                        </div>
+                    </div>
+                    <figcaption>
+                        <i>
+                            Elisa Dahle og Tobias Nørstebø-Vartdal leste opp
+                            tekstene sine under fjorårets bakgårdsfestival.
+                            Foto: Cedric Archer</i
+                        >
+                    </figcaption>
+                </figure>
                 <p>
                     <a href="info/#unge-stemmer">Unge stemmer</a> (Foreningen KULT
                     v/ Ingunn U-M Rasting og Camilla V.A.Hellern)

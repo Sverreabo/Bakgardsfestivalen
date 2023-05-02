@@ -80,6 +80,8 @@ figure {
 }
 
 figcaption {
+	margin-bottom: 0.5rem;
+	font-size: 0.9rem;
 	color: rgb(35, 31, 32);
 }
 

@@ -12,29 +12,24 @@
         <ul>
             <li>
                 <figure>
-                    <div class="flex flex-children-grow">
+                    <div
+                        class="flex flex-children-grow"
+                        style="align-items:flex-end;"
+                    >
                         <div>
                             <img
                                 width="300"
-                                height="492"
+                                height="475"
                                 alt="Omslag til Erichsens 'Sommerland'"
                                 src="/Sommerland_Erichsen.jpg"
                             />
                         </div>
-                        <div>
+                        <div style="margin-left: 0.5rem;">
                             <img
-                                width="300"
-                                height="492"
-                                alt="Omslag til Erichsens 'Sommerland'"
-                                src="/Sommerland_Erichsen.jpg"
-                            />
-                        </div>
-                        <div>
-                            <img
-                                width="300"
-                                height="492"
-                                alt="Omslag til Erichsens 'Sommerland'"
-                                src="/Sommerland_Erichsen.jpg"
+                                width="580"
+                                height="900"
+                                alt="Omslag til Kjølners 'Sommer i Sandøsund"
+                                src="/Kjølner_Sommer i Sandoesund.webp"
                             />
                         </div>
                     </div>
@@ -54,6 +49,13 @@
         <h3>16:00</h3>
         <ul>
             <li>
+                <img
+                    src="/Kvinnelinjer.jpg"
+                    class="p50"
+                    alt="Omslaget til 'Kvinnelinjer'"
+                    width="670"
+                    height="945"
+                />
                 <p>
                     <a href="info/#Kvinnelinjer">Kvinnelinjer</a>. Kvinners
                     livsfortellinger. (Foreningen KULT v/ Norunn Askeland og
@@ -78,8 +80,9 @@
                         >Anne Sverdrup-Thygeson</a
                     >
                     og
-                    <a href="info/#Lars-Elling">Lars Elling</a> i samtale med Stein
-                    Erik Lunde om bøkene Insekter i Norge og Fyrstene av Finntjern
+                    <a href="info/#Lars-Elling">Lars Elling</a> i samtale med
+                    Stein Erik Lunde om bøkene <i>Insekter i Norge</i> og
+                    <i>Fyrstene av Finntjern</i>
                 </p>
             </li>
         </ul>

@@ -21,29 +21,18 @@
         <ul>
             <li>
                 <figure>
-                    <div class="flex">
-                        <div>
-                            <img
-                                width="554"
-                                height="774"
-                                alt="Elise Dahle"
-                                src="/Elise Dahle.jpg"
-                            />
-                        </div>
-                        <div>
-                            <img
-                                width="554"
-                                height="774"
-                                alt="Tobias Nørstebø-Vartdal"
-                                src="/Tobias Nørstebø-Vartdal.jpg"
-                            />
-                        </div>
+                    <div>
+                        <img
+                            src="/Unge stemmer 2022.jpg"
+                            alt="Unge stemmer"
+                            width="1170"
+                            height="884"
+                        />
                     </div>
                     <figcaption>
-                        <i>
-                            Elisa Dahle og Tobias Nørstebø-Vartdal leste opp
-                            tekstene sine under fjorårets bakgårdsfestival.
-                            Foto: Cedric Archer</i
+                        <i
+                            >Jenny Bakke Egeland og Marthine Bjørnsen leser egne
+                            tekster på Bakgårdsfestivalen i 2022.</i
                         >
                     </figcaption>
                 </figure>
@@ -78,7 +67,7 @@
         <ul>
             <li>
                 <img
-                    class="p50"
+                    class="p60"
                     width="679"
                     height="1080"
                     alt="'Ut av tiden' av Jan Mehlum"
@@ -96,7 +85,7 @@
         <ul>
             <li>
                 <img
-                    class="p50"
+                    class="p60"
                     alt="Omslag til 'Frihetens øyeblikk'"
                     src="/Abida-Raja-Frihetens-oyeblikk.jpg"
                 />

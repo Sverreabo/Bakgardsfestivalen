@@ -198,6 +198,10 @@ button:focus {
 	position: relative;
 }
 
+.p60 {
+	width: 60%;
+}
+
 .p50 {
 	width: 50% !important;
 }

@@ -33,9 +33,7 @@
 				</div>
 			</Nav>
 		</div>
-		<div>
-			<img src="/Geitmyra_short.jpg" height="720" width="1634" alt />
-		</div>
+		<div />
 	</div>
 </main>
 

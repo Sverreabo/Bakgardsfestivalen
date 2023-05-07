@@ -51,7 +51,7 @@
             <li>
                 <img
                     src="/Kvinnelinjer.jpg"
-                    class="p50"
+                    class="p60"
                     alt="Omslaget til 'Kvinnelinjer'"
                     width="670"
                     height="945"
@@ -74,6 +74,13 @@
         <h3>18:00</h3>
         <ul>
             <li>
+                <img
+                    src="/Elling.jpg"
+                    class="p60"
+                    width="634"
+                    height="992"
+                    alt="Ellings 'Fyrstene av Finntjern'"
+                />
                 <p>
                     <i>Med blikk for naturen</i> Forfatterne
                     <a href="info/#Anne-Sverdrup-Thygeson"
@@ -91,7 +98,7 @@
         <ul>
             <li>
                 <img
-                    class="p50"
+                    class="p60"
                     width="775"
                     height="1200"
                     alt="Eriksens 'Syv meninger med livet'"

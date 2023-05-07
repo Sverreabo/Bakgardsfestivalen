@@ -33,15 +33,18 @@
     </div>
     <div id="Jan-Mehlum">
         <p>
-            <span class="navn">Jan Mehlum</span> bor i Tønsberg. Han er pensjonert
-            førsteamanuensis i sosiologi og har skrevet 20 bøker om detektiven Svend
-            Foyn, med handling fra Tønsberg og omegn og med avstikkere til utlandet.
-            Svend Foyn er en lett gjenkjennelig seriefigur, med noen få og enkle
-            kjennetegn og handlingsmønstre som gjentar seg. Handlingen er alltid
-            lagt til Tønsberg, med mange avstikkere til omegnen, resten av landet
-            og utlandet. I samtale med sosiolog Rønnaug Sørensen vil Mehlum dele
-            sine tanker om kriminalromanen som sjanger. Har denne type litteratur
-            noen framtid?
+            <span class="navn">Jan Mehlum</span> fra Tønsberg er sosiolog og krimforfatter.
+            Mye av handlingene i bøkene hans foregår i Tønsberg-området, men det
+            hender hovedpersonen advokat Foyn også nøster opp saker utenfor landets
+            grenser. Noe som særpreger bøkene til Jan Mehlum er det skjeve blikket
+            og den realistiske tilnærmingen som betrakter samfunnet nedenfra og oppover.
+            Han har mottatt Rivertonprisen for beste krimroman og er oversatt til
+            en rekke språk. Bok nummer 21 i serien om Sven Foyn slippes 2. juni i
+            år. Mehlums sterke interesse for kino førte til at han, sammen med andre
+            kinoentusiaster, startet Brygga Kino i Tønsberg i 1992. I flere år arbeidet
+            han for NORAD i Afrika. I samtale med sosiolog Rønnaug Sørensen vil Jan
+            Mehlum dele sine tanker om kriminalromanen som sjanger. Har denne type
+            litteratur noen framtid?
         </p>
     </div>
     <div id="Abida-Raja">

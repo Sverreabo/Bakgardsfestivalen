@@ -119,6 +119,11 @@ button:focus {
 	justify-content: space-around;
 }
 
+.children-flex-center>div {
+	display: flex;
+	justify-content: center;
+}
+
 .flex-column {
 	flex-direction: column;
 }
@@ -164,14 +169,19 @@ button:focus {
 	color: rgb(35, 31, 32);
 }
 
+.blur {
+	filter: blur(1px);
+}
+
 .over-img {
+	z-index: 2;
 	position: absolute;
 	width: 100%;
 	background-color: rgba(155, 204, 145, 0.5);
 }
 
 .over-img-dark {
-	background-color: rgba(80, 133, 69, 0.6);
+	background-color: rgba(80, 133, 69, 0.5);
 }
 
 .over-img .over-img-container {
@@ -196,6 +206,10 @@ button:focus {
 
 .relative {
 	position: relative;
+}
+
+.h100 {
+	height: 100%;
 }
 
 .p60 {

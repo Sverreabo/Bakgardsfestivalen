@@ -60,8 +60,10 @@
 			/>
 		</div>
 	</div>
-	<div class="container container-fill-small">
+	<!-- <div class="container">
 		<h2>Hvem kommer?</h2>
+	</div>
+	<div class="container container-fill-small">
 		<Bilder
 			bilder={[
 				{
@@ -84,7 +86,7 @@
 				},
 			]}
 		/>
-	</div>
+	</div> -->
 </main>
 
 <style>

@@ -2,6 +2,16 @@
     <title>Musikk på lørdag</title>
 </svelte:head>
 
-<main class="container">
-    <h3>Musikk</h3>
+<main>
+    <div class="container container-fill-small" style="margin-top: 1rem;">
+        <img
+            src="/musikkprogram.png"
+            width="1640"
+            height="924"
+            alt="musikkprogram"
+        />
+    </div>
+    <div class="container">
+        <p>Dette er det forelpige musikkprogrammet. Mer kommer!</p>
+    </div>
 </main>

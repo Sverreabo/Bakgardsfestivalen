@@ -9,8 +9,21 @@
 </svelte:head>
 
 <main>
-	<div class="container">
-		<h2>Hva skjer på...</h2>
+	<div class="container container-fill-small">
+		<img
+			src="/musikkprogram.png"
+			width="1640"
+			height="924"
+			alt="Musikkprogram"
+		/>
+	</div>
+	<div class="container container-fill-small">
+		<img
+			src="/litteraturprogram.png"
+			width="1640"
+			height="924"
+			alt="Litteraturprogram"
+		/>
 	</div>
 	<div class="container container-fill-small relative">
 		<div class="h100 over-img">
@@ -19,17 +32,20 @@
 			>
 				<div>
 					<div>
-						<h2>torsdag?</h2>
+						<h2>Torsdag</h2>
+						<ul>
+							<li>Mer kommer!</li>
+						</ul>
 					</div>
 				</div>
 				<div>
 					<div>
-						<h2>fredag?</h2>
+						<h2>Fredag</h2>
 						<ul>
-							<a href="fredag/litteratur">
+							<a href="fredag/litteratur/#innhold">
 								<li>Litteratur</li>
 							</a>
-							<a href="fredag/musikk">
+							<a href="fredag/musikk/#innhold">
 								<li>Musikk</li>
 							</a>
 						</ul>
@@ -37,12 +53,12 @@
 				</div>
 				<div>
 					<div>
-						<h2>lørdag?</h2>
+						<h2>Lørdag</h2>
 						<ul>
-							<a href="lørdag/litteratur">
+							<a href="lørdag/litteratur/#innhold">
 								<li>Litteratur</li>
 							</a>
-							<a href="lørdag/musikk">
+							<a href="lørdag/musikk/#innhold">
 								<li>Musikk</li>
 							</a>
 						</ul>
@@ -51,13 +67,13 @@
 			</div>
 		</div>
 		<div>
-			<img
+			<!-- <img
 				class="blur"
 				src="/Unge stemmer 2022.jpg"
 				alt="Unge stemmer"
 				width="1170"
 				height="884"
-			/>
+			/> -->
 		</div>
 	</div>
 	<!-- <div class="container">
@@ -110,7 +126,12 @@
 	li {
 		padding: 0.1rem 0;
 	}
+
 	a {
 		color: black;
+	}
+
+	a:hover {
+		text-decoration: none !important;
 	}
 </style>

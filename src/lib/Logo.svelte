@@ -13,7 +13,7 @@
 					</NavLink>
 					<NavLink href="/program/#innhold">Program</NavLink>
 					<NavLink href="/grønn-matkultur/#innhold"
-						>Grønn matkultur</NavLink
+						>Barneprogram</NavLink
 					>
 					<NavLink href="/siste-nytt/#innhold">Siste nytt</NavLink>
 					<NavLink href="/bli-frivillig/#innhold"

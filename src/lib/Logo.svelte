@@ -12,8 +12,7 @@
 						Om festivalen
 					</NavLink>
 					<NavLink href="/program/#innhold">Program</NavLink>
-					<NavLink href="/grønn-matkultur/#innhold"
-						>Barneprogram</NavLink
+					<NavLink href="/barneprogram/#innhold">Barneprogram</NavLink
 					>
 					<NavLink href="/siste-nytt/#innhold">Siste nytt</NavLink>
 					<NavLink href="/bli-frivillig/#innhold"

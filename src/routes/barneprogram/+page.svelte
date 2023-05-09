@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Grønn matkultur</title>
+	<title>Barneprogram</title>
 </svelte:head>
 
 <main>

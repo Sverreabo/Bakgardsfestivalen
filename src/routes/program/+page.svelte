@@ -25,7 +25,7 @@
 			alt="Litteraturprogram"
 		/>
 	</div>
-	<div class="container container-fill-small relative">
+	<div class="container relative">
 		<div class="h100 over-img">
 			<div
 				class="flex flex-space-around flex-children-grow children-flex-center"

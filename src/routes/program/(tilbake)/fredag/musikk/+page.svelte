@@ -34,7 +34,7 @@
             </div>
             <div style="flex: 60%;" class="padding-block">
                 <div class="blue-white padding-block h100">
-                    <p>
+                    <p class="m0">
                         <b>Kvam skriver all musikk selv</b> i Americana sjangeren,
                         men tar også noen vide sprang i retning blues/rock, soul.
                         Stemmen til Linda har vi hørt i en årrekke både som liveartist,
@@ -48,8 +48,11 @@
         </div>
         <div class="container container-fill-small">
             <iframe
-                title="Linda Kvam synger 'Me and Bobby McGee'"
                 src="https://www.youtube.com/embed/pWRDaU6jScQ"
+                title="Linda Kvam on NRK (Norway): Me and Bobby McGee"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
             />
         </div>
     </div>
@@ -108,7 +111,7 @@
                     height="750"
                     alt="Færderfyrene"
                 />
-                <figcaption>
+                <figcaption class="container">
                     Fra venstre Magne Mithjell, Jon Edgar Karlsen, Espen Lohne,
                     Thor Olav Hillestad, Rolf Dolven, Geir Salvesen, Bjørn
                     Ragnar Berg, Erik Eliassen og Knut Øvsthus

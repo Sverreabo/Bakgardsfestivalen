@@ -70,16 +70,20 @@ section:not(:last-of-type) {
 	margin-bottom: 1.8rem;
 }
 
+video,
 img {
+	display: block;
 	width: 100%;
 	height: auto;
 }
 
-figure {
+figure,
+.m0 {
 	margin: 0;
 }
 
 figcaption {
+	margin-top: 0.2rem;
 	margin-bottom: 0.5rem;
 	font-size: 0.9rem;
 	color: rgb(35, 31, 32);
@@ -143,7 +147,7 @@ iframe {
 }
 
 .padding-block {
-	padding: 0.5rem;
+	padding: 6px;
 }
 
 .tight-text p,

@@ -7,7 +7,7 @@
     <title>Musikk på lørdag</title>
 </svelte:head>
 
-<main>
+<main class="musikk">
     <br />
     <div id="Goylem">
         <div class="container container-fill-small relative">

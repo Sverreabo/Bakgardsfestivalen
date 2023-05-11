@@ -1,0 +1,13 @@
+.over-img {
+    background-color: unset;
+}
+
+.over-img h2 {
+    margin: 1rem;
+    font-size: 2.5rem;
+    color: rgb(212, 215, 225);
+}
+
+.blue-white {
+    background-color: rgb(212, 215, 225);
+}

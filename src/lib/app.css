@@ -119,6 +119,16 @@ button:focus {
 	justify-content: space-around;
 }
 
+.flex-center {
+	justify-content: center;
+}
+
+iframe {
+	border: none;
+	width: 100%;
+	aspect-ratio: 4/3;
+}
+
 .children-flex-center>div {
 	display: flex;
 	justify-content: center;
@@ -130,6 +140,10 @@ button:focus {
 
 .flex-children-grow>* {
 	flex: 1 0 0;
+}
+
+.padding-block {
+	padding: 0.5rem;
 }
 
 .tight-text p,

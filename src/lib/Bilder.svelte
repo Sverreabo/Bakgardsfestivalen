@@ -16,7 +16,7 @@
         <div id="galleri" style="left: {(bildeIndex % bilder.length) * 50}%">
             {#each bilder as bilde, i}
                 <div class="relative">
-                    <div class="over-img text-over-img">
+                    <div class="over-img">
                         <p>{bilde.text}</p>
                     </div>
                     <div>
@@ -45,7 +45,7 @@
     #galleri {
         position: relative;
         display: flex;
-        transition: left 0.5s;
+        transition: left 0.4s;
     }
     #galleri > div {
         flex: 0 0 50%;
@@ -72,12 +72,13 @@
         opacity: 1;
     }
 
-    .text-over-img {
+    .over-img {
+        bottom: 0;
         color: black;
         background-color: #ccc;
     }
 
-    .text-over-img > p {
+    .over-img > p {
         margin: 0.1rem 0.5rem;
     }
 </style>

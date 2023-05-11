@@ -11,9 +11,8 @@
 					<NavLink href="/om-festivalen/#innhold">
 						Om festivalen
 					</NavLink>
-					<!-- <NavLink href="/program/#innhold">Program</NavLink> -->
-					<NavLink href="/grønn-matkultur/#innhold"
-						>Grønn matkultur</NavLink
+					<NavLink href="/program/#innhold">Program</NavLink>
+					<NavLink href="/barneprogram/#innhold">Barneprogram</NavLink
 					>
 					<NavLink href="/siste-nytt/#innhold">Siste nytt</NavLink>
 					<NavLink href="/bli-frivillig/#innhold"

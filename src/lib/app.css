@@ -70,16 +70,20 @@ section:not(:last-of-type) {
 	margin-bottom: 1.8rem;
 }
 
+video,
 img {
+	display: block;
 	width: 100%;
 	height: auto;
 }
 
-figure {
+figure,
+.m0 {
 	margin: 0;
 }
 
 figcaption {
+	margin-top: 0.2rem;
 	margin-bottom: 0.5rem;
 	font-size: 0.9rem;
 	color: rgb(35, 31, 32);
@@ -119,6 +123,16 @@ button:focus {
 	justify-content: space-around;
 }
 
+.flex-center {
+	justify-content: center;
+}
+
+iframe {
+	border: none;
+	width: 100%;
+	aspect-ratio: 4/3;
+}
+
 .children-flex-center>div {
 	display: flex;
 	justify-content: center;
@@ -130,6 +144,10 @@ button:focus {
 
 .flex-children-grow>* {
 	flex: 1 0 0;
+}
+
+.padding-block {
+	padding: 6px;
 }
 
 .tight-text p,

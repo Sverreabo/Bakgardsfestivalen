@@ -8,48 +8,43 @@
 </svelte:head>
 
 <main class="musikk">
-    <br />
-    <div id="Goylem">
-        <div class="container container-fill-small relative">
-            <div class="over-img" style="bottom: 0;">
-                <h2>Goylem</h2>
-            </div>
-            <img src="/Goylem.jpg" width="1642" height="1095" alt="Goylem" />
-        </div>
+    <div id="Tunsberg-Vintage-Orchestra">
         <div class="container">
+            <img src="/Orchestra header.png" width="1094" height="277" alt="" />
+            <h3 class="tidspunkt">Lørdag 18:30 - 1915</h3>
             <p>
-                Det forrykende norske orkesteret Goylem Space Klezmer lager
-                innovativ og fengende musikk, med en fot i tradisjonell klezmer
-                og “mange andre føtter og lemmer” i balkanjazz, midtøstenske
-                danserytmer, psykedelisk prog og sci-fi elektronika. Goylem er
-                kjent for sine overraskende og livlige konserter. Erlend
-                Barratt-Due Solum – klarinett. Nikolai Aurebekk Handeland –
-                trekkspill. Øystein Hvamen Rasmussen – perkusjon. Hans Erik
-                Wagner – kontrabass.
+                Tunsberg Vintage Orchestra er et svingende ensemble som spiller
+                underholdningsmusikk fra 1920 – 30 tallet.
+            </p>
+            <img
+                src="/Tunsberg Vintage Orchestra.jpg"
+                width="773"
+                height="512"
+                alt="Tunsberg Vintage Orchestra"
+            />
+            <p>
+                Orkesteret henter repertoaret fra jazzen og
+                revy-underholdningsmusikken som regjerte i Europa på den tiden.
+                Orkesteret har og funnet frem musikk som ble spilt på Victoria
+                Hotel i Tønsberg i denne perioden.
             </p>
         </div>
     </div>
     <Hjerter />
-    <div id="Pipe-Lines">
-        <div class="container">
-            <h2>PIPE LINES</h2>
+    <div id="Astoria">
+        <div class="container container-fill-small relative">
+            <div class="over-img">
+                <h2 style="color: black; float:right;">Astoria</h2>
+            </div>
+            <img src="/Astoria.jpg" width="1200" height="800" alt="Astoria" />
         </div>
-        <div class="container container-fill-small">
-            <iframe
-                src="https://www.youtube.com/embed/j9mJBvkx9cw"
-                title="Pipe Lines"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen
-            />
-        </div>
+        <h3 class="tidspunkt">Lørdag 19:30 - 19:50</h3>
         <div class="container">
             <p>
-                <b>Pipe Lines</b> er rutinert pop/rock band som har holdt på kontinuerlig
-                i 50 år, hobby basis. Spiller alt fra The Shadows-Status Quo 1960
-                -1980. Eget PA anlegg for ute /inne med egen lyd teknikker. På YouTube
-                kan dere se noen produksjoner under Pipe Lines 50 år. Vi har bygd
-                opp en historisk fortelling under fremførelsen av melodiene.
+                Astoria er en alternativ og elektronisk duo fra Tønsberg, som
+                består av fetterne Edvard og Henrik Mortensholm. Du kan
+                fortvente tunge beats, svevende synther, skjør gitar, enorme og
+                seige basslinjer og vokal som preges av frustrasjon og lengsel.
             </p>
         </div>
     </div>
@@ -63,6 +58,7 @@
                 <source src="/Tog Te Byn.mp4" type="video/mp4" />
             </video>
         </div>
+        <h3 class="tidspunkt">Lørdag 20:00 - 20:40</h3>
         <div class="container">
             <p>
                 Lørdag 10. juni får du en hel konsert med fullt band som spiller
@@ -99,24 +95,55 @@
         </div>
     </div>
     <Hjerter />
-    <div id="Tunsberg-Vintage-Orchestra">
+    <div id="Pipe-Lines">
         <div class="container">
-            <img src="/Orchestra header.png" width="1094" height="277" alt="" />
-            <p>
-                Tunsberg Vintage Orchestra er et svingende ensemble som spiller
-                underholdningsmusikk fra 1920 – 30 tallet.
-            </p>
-            <img
-                src="/Tunsberg Vintage Orchestra.jpg"
-                width="773"
-                height="512"
-                alt="Tunsberg Vintage Orchestra"
+            <h2>PIPE LINES</h2>
+        </div>
+        <div class="container container-fill-small">
+            <iframe
+                src="https://www.youtube.com/embed/j9mJBvkx9cw"
+                title="Pipe Lines"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
             />
+        </div>
+        <h3 class="tidspunkt">Lørdag 21:00 - 21:40</h3>
+        <div class="container">
             <p>
-                Orkesteret henter repertoaret fra jazzen og
-                revy-underholdningsmusikken som regjerte i Europa på den tiden.
-                Orkesteret har og funnet frem musikk som ble spilt på Victoria
-                Hotel i Tønsberg i denne perioden.
+                <b>Pipe Lines</b> er rutinert pop/rock band som har holdt på kontinuerlig
+                i 50 år, hobby basis. Spiller alt fra The Shadows-Status Quo 1960
+                -1980. Eget PA anlegg for ute /inne med egen lyd teknikker. På YouTube
+                kan dere se noen produksjoner under Pipe Lines 50 år. Vi har bygd
+                opp en historisk fortelling under fremførelsen av melodiene.
+            </p>
+        </div>
+    </div>
+    <Hjerter />
+    <div id="Goylem-Space-Klezmer">
+        <div class="container container-fill-small relative">
+            <div class="over-img" style="bottom: 0;">
+                <h2>Goylem Space Klezmer</h2>
+            </div>
+            <img
+                src="/Goylem.jpg"
+                width="1642"
+                height="1095"
+                alt="Goylem Space Klezmer"
+            />
+        </div>
+        <h3 class="tidspunkt">Lørdag 22:00 - 23:00</h3>
+
+        <div class="container">
+            <p>
+                Det forrykende norske orkesteret Goylem Space Klezmer lager
+                innovativ og fengende musikk, med en fot i tradisjonell klezmer
+                og “mange andre føtter og lemmer” i balkanjazz, midtøstenske
+                danserytmer, psykedelisk prog og sci-fi elektronika. Goylem er
+                kjent for sine overraskende og livlige konserter. Erlend
+                Barratt-Due Solum – klarinett. Nikolai Aurebekk Handeland –
+                trekkspill. Øystein Hvamen Rasmussen – perkusjon. Hans Erik
+                Wagner – kontrabass.
             </p>
         </div>
     </div>

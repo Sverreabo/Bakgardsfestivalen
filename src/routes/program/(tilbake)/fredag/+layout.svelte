@@ -3,13 +3,9 @@
     import NavLink from "$lib/NavLink.svelte";
 </script>
 
-<svelte:head>
-    <title>Fredag</title>
-</svelte:head>
-
 <main>
     <div class="container">
-        <h2>Fredag</h2>
+        <h2>Fredag 09. juni</h2>
         <Nav>
             <NavLink href="/program/fredag/litteratur/#innhold"
                 >Litteratur</NavLink

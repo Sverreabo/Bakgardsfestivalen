@@ -14,7 +14,7 @@
 
 <style>
     #bilder {
-        margin: 1.5rem auto;
-        width: 5%;
+        margin: 2rem auto;
+        width: 6%;
     }
 </style>

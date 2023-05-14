@@ -49,6 +49,15 @@
 			trafikk. Festivalen legger vekt på litteratur, musikk, scenekunst og
 			grønn matkultur.
 		</p>
+		<figure>
+			<img
+				src="/kart.webp"
+				width="1790"
+				height="1932"
+				alt="Kart over området"
+			/>
+			<figcaption>Kart over området</figcaption>
+		</figure>
 	</section>
 	<section>
 		<h3>Lokal identitet og grønn profil</h3>

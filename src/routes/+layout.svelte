@@ -4,9 +4,6 @@
 </script>
 
 <main>
-	<div class="varsling center-text">
-		<p>Program kommer snart - følg med!</p>
-	</div>
 	<div>
 		<Logo />
 

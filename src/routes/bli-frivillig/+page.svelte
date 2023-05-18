@@ -33,11 +33,11 @@
 		<li>Bistå i informasjonsarbeid/PR</li>
 	</ul>
 	<p>
-		Torsdag ettermiddag/kveld planlegger vi for en ordførerduell om
-		byutvikling med påfølgende konsert. Fredag og lørdag planlegges det for
-		barneprogram fra kl.11-14 og voksenprogram fra kl.15-23 begge dager.
-		Detaljert program kommer fortløpende ettersom avtaler med artister og
-		bidragsytere blir klare.
+		Torsdag ettermiddag/kveld blir det en ordførerduell om byutvikling med
+		påfølgende konsert. Fredag og lørdag skal det være barneprogram fra
+		kl.11-14 og voksenprogram fra kl.15-23 begge dager. Detaljert program
+		kommer fortløpende ettersom avtaler med artister og bidragsytere blir
+		klare.
 	</p>
 	<p>
 		Lisbet Karlsen har påtatt seg arbeidet med å koordinere de frivillige.

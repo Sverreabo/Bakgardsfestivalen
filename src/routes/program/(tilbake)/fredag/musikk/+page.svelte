@@ -21,7 +21,7 @@
     </div>
     <Hjerter />
     <div id="Færderfyrene">
-        <h3 class="tidspunkt">Fredag 19:30 - 20:50</h3>
+        <h3 class="tidspunkt">Fredag 19:30 - 19:50</h3>
 
         <div class="container container-fill-small relative">
             <div class="over-img">
@@ -47,6 +47,30 @@
                 repertoar, men trives best med å ta for seg låter fra 60 og 70
                 tallet, lage norsk tekst gjerne med en lokal vri. Vokale
                 arrangementer blandes med gitarer, trekkspill og bass.
+            </p>
+        </div>
+    </div>
+    <Hjerter />
+    <div id="Kulturmelk">
+        <h3 class="tidspunkt">Fredag 20:00 - 20:20</h3>
+        <div class="container container-fill-small relative">
+            <div class="over-img">
+                <h2 style="font-size: 3rem;">Kulturmelk</h2>
+            </div>
+            <div>
+                <img
+                    src="/Kulturmelk in action.jpg"
+                    width="1284"
+                    height="1682"
+                    alt="Kulturmelk in action"
+                />
+            </div>
+        </div>
+        <div class="container">
+            <p>
+                Kulturmelk er et tønsbergbasert indieband som alltid forsøker å
+                skape god stemning med god og fengende musikk! Vi går alle på
+                musikklinja og spiller indie/surfrock
             </p>
         </div>
     </div>

@@ -117,7 +117,7 @@
 
 			<li>
 				<h3>Kl. 14:00</h3>
-				<p>Slutt på programmet</p>
+				<p>Slutt på programmet - takk for i dag!</p>
 			</li>
 		</ul>
 
@@ -127,6 +127,7 @@
 				<h3>Kl. 11:00</h3>
 				<p>Korpsmusikk på torvet åpner dagen</p>
 			</li>
+
 			<li>
 				<h3>Hele dagen (Kl. 11:30 - 14:00)</h3>
 				<ul>
@@ -148,6 +149,7 @@
 					</li>
 				</ul>
 			</li>
+
 			<li>
 				<h3>Kl. 11:30</h3>
 				<ul>
@@ -168,6 +170,7 @@
 					</li>
 				</ul>
 			</li>
+
 			<li>
 				<h3>Kl. 12:30</h3>
 				<ul>
@@ -205,6 +208,11 @@
 						/>
 					</li>
 				</ul>
+			</li>
+
+			<li>
+				<h3>Kl. 14:00</h3>
+				<p>Slutt på programmet - takk for i dag!</p>
 			</li>
 		</ul>
 	</div>

@@ -74,13 +74,24 @@
         <h3>18:00</h3>
         <ul>
             <li>
-                <img
-                    src="/Elling.jpg"
-                    class="p60"
-                    width="634"
-                    height="992"
-                    alt="Ellings 'Fyrstene av Finntjern'"
-                />
+                <div class="flex">
+                    <div style="flex: 48%;">
+                        <img
+                            src="/Elling.jpg"
+                            width="634"
+                            height="992"
+                            alt="Ellings 'Fyrstene av Finntjern'"
+                        />
+                    </div>
+                    <div style="flex: 52%;">
+                        <img
+                            width="1772"
+                            height="2551"
+                            alt="'På naturens skuldre' Sverdrup-Thygeson"
+                            src="/Paa naturens skuldre.jpg"
+                        />
+                    </div>
+                </div>
                 <p>
                     <i>Med blikk for naturen</i> Forfatterne
                     <a href="info/#Anne-Sverdrup-Thygeson"

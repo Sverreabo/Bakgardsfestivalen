@@ -4,7 +4,7 @@
 
 <main>
     <Tilbake
-        ignorer={["/program/torsdag", "/program/fredag/", "/program/lørdag/"]}
+        ignorer={["/program/torsdag/", "/program/fredag/", "/program/lørdag/"]}
     />
     <slot />
 </main>

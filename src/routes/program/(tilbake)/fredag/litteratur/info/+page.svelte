@@ -29,9 +29,9 @@
     <div id="Kvinnelinjer">
         <p>
             <span class="navn">Kvinnelinjer</span> er en bok med tekster av kvinner
-            fra ulike kulturer, inkludert Norge. På arrangementet vil disse forfatterne
-            lese egne livsfortellinger: Cristina Almeida, Solveig Tinderholt, Yenni
-            Nguyen, Camilla Victoria Aubert Hellern, Kari Plyhn og Kjersti Wold.
+            fra ulike kulturer, inkludert Norge. På arrangmenet vil flere av kvinnene
+            lese utdrag fra egne livsfortellinger, og publikum får tips om hvordan
+            skrive om eget liv på ulike måter.
         </p>
     </div>
     <div id="Anne-Sverdrup-Thygeson">

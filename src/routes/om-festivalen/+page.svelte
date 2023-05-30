@@ -1,3 +1,7 @@
+<script>
+	import Logoer from "$lib/Sponsorer.svelte";
+</script>
+
 <svelte:head>
 	<title>Om festivalen</title>
 </svelte:head>
@@ -105,4 +109,5 @@
 			har sponsorene å takke. Så på vegne av oss alle – tusen takk!
 		</p>
 	</section>
+	<Logoer />
 </main>

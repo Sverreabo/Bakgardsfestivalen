@@ -1,3 +1,7 @@
+<script>
+	import Logoer from "$lib/Sponsorer.svelte";
+</script>
+
 <svelte:head>
 	<title>Bakgårdsfestivalen</title>
 </svelte:head>
@@ -26,13 +30,19 @@
 			<p>med flere...</p>
 		</div>
 	</div>
-	<h2>Ønsker du å bidra?</h2>
-	<p>
-		Send en epost til <a href="mailto:karlsen.lisbet@gmail.com"
-			>karlsen.lisbet@gmail.com</a
-		> eller ring oss på 92252647.
-	</p>
-	<p>Mer info kommer!</p>
+	<section>
+		<h2>Ønsker du å bidra?</h2>
+		<p>
+			Send en epost til <a href="mailto:karlsen.lisbet@gmail.com"
+				>karlsen.lisbet@gmail.com</a
+			> eller ring oss på 92252647.
+		</p>
+		<p>Mer info kommer!</p>
+	</section>
+	<section>
+		<h3>Sponsorer og samarbeidspartnere</h3>
+		<Logoer />
+	</section>
 </main>
 
 <style>

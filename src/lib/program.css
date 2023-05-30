@@ -3,15 +3,18 @@
 }
 
 .program p {
-    margin: 0.2rem 0;
+    margin: 0.4rem 0;
 }
 
 ul {
     list-style: disc;
 }
 
-.program>ul {
+.program ul {
     padding-left: 5%;
+}
+
+.program>ul {
     list-style: none;
 }
 

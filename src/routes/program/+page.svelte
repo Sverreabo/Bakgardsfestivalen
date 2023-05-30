@@ -34,7 +34,9 @@
 					<div>
 						<h2>Torsdag</h2>
 						<ul>
-							<li>Mer kommer!</li>
+							<a href="torsdag">
+								<li>Debatt og musikkinnslag</li>
+							</a>
 						</ul>
 					</div>
 				</div>

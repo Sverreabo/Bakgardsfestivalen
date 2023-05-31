@@ -99,7 +99,7 @@
                     >
                     og
                     <a href="info/#Lars-Elling">Lars Elling</a> i samtale med
-                    Stein Erik Lunde om bøkene <i>Insekter i Norge</i> og
+                    Stein Erik Lunde om bøkene <i>På naturens skuldre</i> og
                     <i>Fyrstene av Finntjern</i>
                 </p>
             </li>

@@ -46,7 +46,7 @@
 				</li>
 
 				<li>
-					<h3>Kl. 11:30 - 14:00</h3>
+					<h3>Kl. 11:00 - 14:00</h3>
 					<ul>
 						<li>
 							<p>
@@ -58,12 +58,58 @@
 								>
 							</p>
 						</li>
+					</ul>
+				</li>
+
+				<li>
+					<h3>Kl. 11:30</h3>
+					<ul>
 						<li>
 							<p>
-								Jungelbokområdet ved musikkscenen på Friluften
-								åpner: <b
-									>Barna får fargelegge motiver fra Jungelboka
-									hele dagen</b
+								Musikkscenen på Friluften: <b
+									>Tønsberg Amatørteaters ungdomsgruppe
+									framfører utdrag av musikalen «Jungelboken»
+									på musikkscenen på Friluften.
+								</b>Etter forestillingen blir det ansiktsmaling
+								med motiv fra Jungelboken. Tegneaktivitet for
+								barna.
+							</p>
+							<img
+								src="/Jungelboken.jpg"
+								width="640"
+								height="401"
+								alt="Tønsberg Amatørteater"
+							/>
+						</li>
+					</ul>
+				</li>
+
+				<li>
+					<h3>Kl. 12:00</h3>
+					<p>Bakgård for Litteratur i Øvre Langgate:</p>
+					<ul>
+						<li>
+							<p>Kulturskolen underholder</p>
+						</li>
+						<li><p>Émelie Schøyen synger</p></li>
+						<li>
+							<p>Tønsberg kulturskoles strykekvartett spiller</p>
+						</li>
+						<li>
+							<p>
+								Tønsberg kulturskoles Saksofonkvartett spiller
+							</p>
+						</li>
+					</ul>
+				</li>
+
+				<li>
+					<h3>Kl. 12:30</h3>
+					<ul>
+						<li>
+							<p>
+								Musikkscenen på Friluften: <b>
+									Færder Musikkorps spiller</b
 								>
 							</p>
 						</li>
@@ -71,7 +117,7 @@
 				</li>
 
 				<li>
-					<h3>Kl. 11:30</h3>
+					<h3>Kl. 13:00</h3>
 					<ul>
 						<li>
 							<p>
@@ -87,54 +133,6 @@
 								height="1398"
 								alt="Kai og Christer"
 							/>
-						</li>
-					</ul>
-				</li>
-
-				<li>
-					<h3>Kl. 12:30</h3>
-					<ul>
-						<li>
-							<p>
-								Bakgård for Litteratur i Øvre Langgate: <b
-									>Kuturskolen og Steinerskolen underholder</b
-								>
-							</p>
-						</li>
-					</ul>
-				</li>
-
-				<li>
-					<h3>Kl. 13:00</h3>
-					<ul>
-						<li>
-							<p>
-								Musikkscenen på Friluften: <b
-									>Tønsberg Amatørteater framfører utdrag fra
-									Jungelboka. Etter forestillingen kan barn få
-									ansiktsmaling med motiver fra Jungelboka</b
-								>
-							</p>
-							<img
-								src="/Jungelboken.jpg"
-								width="640"
-								height="401"
-								alt="Tønsberg Amatørteater"
-							/>
-						</li>
-					</ul>
-				</li>
-
-				<li>
-					<h3>Kl. 13:30</h3>
-					<ul>
-						<li>
-							<p>
-								Fra torvet til Friluften: <b
-									>Færder Musikkorps avslutter barne- og
-									familieprogrammet</b
-								>
-							</p>
 						</li>
 					</ul>
 				</li>

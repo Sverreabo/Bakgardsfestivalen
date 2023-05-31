@@ -89,7 +89,7 @@
 					<p>Bakgård for Litteratur i Øvre Langgate:</p>
 					<ul>
 						<li>
-							<p>Kulturskolen og Steinerskolen underholder</p>
+							<p>Kulturskolen underholder</p>
 						</li>
 						<li><p>Émelie Schøyen synger</p></li>
 						<li>

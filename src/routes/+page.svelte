@@ -1,5 +1,5 @@
 <script>
-	import Logoer from "$lib/Sponsorer.svelte";
+	import Sponsorer from "$lib/Sponsorer.svelte";
 </script>
 
 <svelte:head>
@@ -41,7 +41,7 @@
 	</section>
 	<section>
 		<h3>Sponsorer og samarbeidspartnere</h3>
-		<Logoer />
+		<Sponsorer />
 	</section>
 </main>
 

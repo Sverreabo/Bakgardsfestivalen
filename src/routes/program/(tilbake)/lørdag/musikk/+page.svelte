@@ -8,6 +8,32 @@
 </svelte:head>
 
 <main class="musikk">
+    <div id="Toensberg sangforening">
+        <div class="container">
+            <h2 class="center-text">Tønsberg sangforening</h2>
+        </div>
+        <h3 class="tidspunkt">Lørdag 18:00 - 18:20</h3>
+        <div class="container flex flex-children-grow">
+            <div style="padding-right: 1rem; flex: 0.4;">
+                <img
+                    src="/Toensberg sangforening.png"
+                    width="100"
+                    height="123"
+                    alt="Tønsberg sangforening logo"
+                />
+            </div>
+            <div>
+                <img src="/Sang grafikk.png" width="305" height="165" alt="" />
+            </div>
+        </div>
+        <div class="container">
+            <p>
+                Tønsberg sangforening er Norges nest eldste kor, i Norges eldste
+                by
+            </p>
+        </div>
+    </div>
+    <Hjerter />
     <div id="Tunsberg-Vintage-Orchestra">
         <div class="container">
             <img src="/Orchestra header.png" width="1094" height="277" alt="" />

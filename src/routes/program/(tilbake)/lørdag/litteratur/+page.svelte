@@ -32,7 +32,8 @@
                     <figcaption>
                         <i
                             >Jenny Bakke Egeland og Marthine Bjørnsen leser egne
-                            tekster på Bakgårdsfestivalen i 2022.</i
+                            tekster på Bakgårdsfestivalen i 2022. Foto: Ingunn
+                            U-M Rasting</i
                         >
                     </figcaption>
                 </figure>

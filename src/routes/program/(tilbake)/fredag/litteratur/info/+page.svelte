@@ -74,11 +74,11 @@
             <span class="navn">Thomas Hylland-Eriksen</span> er en norsk
             sosialantropolog, opprinnelig fra Nøtterøy. Han er en engasjert
             deltaker i samfunnsdebatten, ikke minst når det gjelder spørsmål
-            omkring identitet, etnisitet, globalisering, flerkulturelle samfunn,
-            og i senere år dessuten om klima og miljø. Gjennom et omfattende
-            faglig forfatterskap om disse og andre temaer er han en
-            internasjonalt kjent forsker. Her intervjues han av sosiolog og
-            professor Rune Nilsen om boka <i>Syv meninger med livet</i> (2022).
+            omkring identitet, etnisitet, globalisering, flerkulturelle samfunn
+            og klima og miljø. Gjennom et omfattende faglig forfatterskap om
+            disse og andre temaer er han en internasjonalt kjent forsker. Her
+            intervjues han av sosiolog og professor Rune Nilsen om boka
+            <i>Syv meninger med livet</i> (2022).
         </p>
     </div>
 </main>

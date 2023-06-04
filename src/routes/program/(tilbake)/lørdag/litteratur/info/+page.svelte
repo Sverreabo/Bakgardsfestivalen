@@ -22,10 +22,10 @@
             <span class="navn">Vibeke Riiser-Larsen og Erik Tunstad</span> er
             begge vitenskapsskribenter med interesse for biologi, genetikk og
             utviklingslære. Sammen har de skrevet bøkene
-            <i>Neanderthal. Folket som forsvant</i>,
-            <i>Kritisk tenkning. En enkel guide til å bruke hodet godt</i> og
+            <i>Neanderthal: Folket som forsvant</i>,
+            <i>Kritisk tenkning: En enkel guide til å bruke hodet godt</i> og
             <i
-                >Årstidene. Dyret som spiser sin egen hjerne og andre historier.</i
+                >Årstidene: Dyret som spiser sin egen hjerne og andre historier.</i
             >
             I denne samtalen tar de utgangspunkt i årstider på Tjøme og
             <i>Kjærlighetens evolusjon</i>, en bok under arbeid.

@@ -1,5 +1,5 @@
 <script>
-	import Logoer from "$lib/Sponsorer.svelte";
+	import Sponsorer from "$lib/Sponsorer.svelte";
 </script>
 
 <svelte:head>
@@ -15,19 +15,19 @@
 		<h3>Foreningen Kammegaten 7 (K-7) står bak</h3>
 		<p>
 			K-7 er en ideell forening der medlemmene har tilgang til en
-			skrivestue, arbeidsplass og et sosialt fellesskap I Kammegaten 7.
+			skrivestue, arbeidsplass og et sosialt fellesskap i Kammegaten 7.
 			Mange av medlemmene er pensjonister. Foreningen har stor interesse
 			for prosjekter som kan utvikle Tønsberg og det kulturelle miljøet i
 			sentrum. Et eksempel er det spontane Friluften-prosjektet -
 			«Nostalgi i sentrum» i august 2021. En pop-up uterestaurant på en
 			velkjent tomt. Foreningen K-7 fulgte opp i juni 2022 med en
-			to-dagers bakgårdsfestival. Denne festivalen ble vellykket og i år
-			forsetter vi med en ny og utvidet bakgårdsfestival. Med kulturelle
-			uttrykk og en grønn profil. Fortsatt ligger mange bakgårder ubrukt
-			og benyttes primært til bilparkering på dagtid. I en videre
-			utvikling av Tønsberg sentrum, med handel, kultur og opplevelser i
-			fokus, vil en ny oppmerksomhet på disse arealene være svært aktuell,
-			som ledd i en positiv byutvikling.
+			to-dagers bakgårdsfestival. Denne festivalen ble vellykket, og i år
+			forsetter vi med en ny og utvidet bakgårdsfestival med kulturelle
+			uttrykk og en grønn profil. Fortsatt ligger mange bakgårder i
+			Tønsberg ubrukt og benyttes primært til bilparkering på dagtid. I en
+			videre utvikling av Tønsberg sentrum, med handel, kultur og
+			opplevelser i fokus, vil en ny oppmerksomhet på disse arealene være
+			svært aktuell, som ledd i en positiv byutvikling.
 		</p>
 	</section>
 	<section>
@@ -70,9 +70,9 @@
 			Programmet på dagtid skal ha et spesielt fokus på <b>barn og unge</b
 			>. Vi ønsker at festivalen gjennomsyres av ulike uttrykk og temaer
 			som viser at Tønsberg by og sentrum får et grønt avtrykk. Konkret
-			gjennom matopplevelser (kortreist, økologisk, sesongbasert)
+			gjennom matopplevelser (kortreist, økologisk, sesongbasert),
 			beplantning (trær, busker, blomster), alternativ mobilitet i sentrum
-			(bil-ringer, delebil, kollektivtransport osv), og ved å vise fram
+			(bil-ringer, delebil, kollektivtransport osv) og ved å vise fram
 			lokalt utviklede produkter og løsninger for et grønt skifte (både
 			veletablerte virksomheter og nye grundere). Festivalen ønsker å
 			vektlegge gjenbruk og det sirkulære, benytte miljøvennlig emballasje
@@ -81,13 +81,13 @@
 		</p>
 	</section>
 	<section>
-		<h3>Økonomisk sikkerhet for en non-profit organisert festival</h3>
+		<h3>Økonomisk sikkerhet for en nonprofit-organisert festival</h3>
 		<p>
 			Foreningen K-7 har satt sammen en prosjektgruppe og trukket med
 			flere ressurspersoner, alt på frivillig basis. Avtaler, logistikk og
 			infrastruktur krever en profesjonell holdning og struktur.
 			Festivalen har engasjert en prosjektleder i delstilling til dette.
-			Likevel, vi understreker at dette er et non-profit prosjekt for K-7.
+			Likevel, vi understreker at dette er et nonprofit prosjekt for K-7.
 			Et eventuelt overskudd vil enten tilfalle et humanitært
 			prosjekt/tiltak eller bli videreført i nye bakgårdsfestivaler.
 			Samtidig vil vi ikke underslå at Bakgårdsfestivalen 2023 er et stort
@@ -97,7 +97,7 @@
 	</section>
 	<section>
 		<h3>Sponsorer og samarbeidspartnere</h3>
-		<p>Uten sponsorer. Ingen festival.</p>
+		<p>Uten sponsorer, ingen festival.</p>
 		<p>
 			Så viktig er sponsorene for Bakgårdsfestivalen. Uten midler og
 			velvilje blir det ikke fest. For oss som har påtatt oss ansvaret for
@@ -109,5 +109,5 @@
 			har sponsorene å takke. Så på vegne av oss alle – tusen takk!
 		</p>
 	</section>
-	<Logoer />
+	<Sponsorer />
 </main>

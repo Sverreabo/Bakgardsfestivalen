@@ -20,6 +20,24 @@
         </div>
     </div>
     <Hjerter />
+    <div id="Ukrainakor">
+        <h3 class="tidspunkt">Fredag 19:00 - 19:20</h3>
+        <div class="container container-fill-small">
+            <img
+                src="/Ukrainakor.jpg"
+                width="1280"
+                height="720"
+                alt="Tønsbergs ukrainakor"
+            />
+        </div>
+        <div class="container">
+            <p>
+                Tønsberg har fått et eget Ukrainakor. Vi ser frem til å
+                presentere både Ukrainske sanger og norske sanger for dere.
+            </p>
+        </div>
+    </div>
+    <Hjerter />
     <div id="Færderfyrene">
         <h3 class="tidspunkt">Fredag 19:30 - 19:50</h3>
 

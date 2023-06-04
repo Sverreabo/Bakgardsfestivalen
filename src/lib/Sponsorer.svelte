@@ -31,6 +31,14 @@
         <img src="/logoer/tnf.webp" width="539" height="605" alt="" />
     </div>
     <div>
+        <img
+            src="/logoer/Kirkens bymisjon.webp"
+            width="350"
+            height="360"
+            alt=""
+        />
+    </div>
+    <div>
         <img src="/logoer/apollon.webp" width="861" height="290" alt="" />
     </div>
     <div>
@@ -48,9 +56,6 @@
         <img src="/logoer/biblioteket.webp" width="860" height="215" alt="" />
     </div>
     <div>
-        <img src="/logoer/glasmagasin.webp" width="608" height="305" alt="" />
-    </div>
-    <div>
         <img
             src="/logoer/tonsbergs blad.webp"
             width="300"
@@ -59,10 +64,13 @@
         />
     </div>
     <div>
-        <img src="/logoer/tonsberglivet.webp" width="788" height="540" alt="" />
+        <img src="/logoer/glasmagasin.webp" width="608" height="305" alt="" />
     </div>
     <div>
         <img src="/logoer/gjermundsen.webp" width="600" height="78" alt="" />
+    </div>
+    <div>
+        <img src="/logoer/tonsberglivet.webp" width="788" height="540" alt="" />
     </div>
     <div>
         <img src="/logoer/cicero.webp" width="767" height="164" alt="" />

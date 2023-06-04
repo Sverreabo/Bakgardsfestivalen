@@ -103,15 +103,15 @@
         <div class="container">
             <p>
                 "Tom Waits er en av de største låtskriverne i vår tid", sier
-                Olav Gohli, som synger og spiller gitar i "Tog te by'n".
-                <br />
-                "Hans dikteriske verden består av bymiljøer, landstrykere og togloffere,
-                forventningsfulle ungdommer, middelaldrende kjærestepar og gammel
-                livsvisdom. Og selvsagt handler det om kjærligheten. Den man håper
-                å finne, den som ikke fins, den som er rusten og den som ikke er
-                der lenger. Når vi synger og spiller disse sangene på norsk, kommer
-                de nærmere oss -- likevel er det umiskjennelig Tom Waits' verden
-                vi er inne i, en verden av rock, blues, jazz og poesi."
+                Olav Gohli, som synger og spiller gitar i "Tog te by'n". "Hans
+                dikteriske verden består av bymiljøer, landstrykere og
+                togloffere, forventningsfulle ungdommer, middelaldrende
+                kjærestepar og gammel livsvisdom. Og selvsagt handler det om
+                kjærligheten. Den man håper å finne, den som ikke fins, den som
+                er rusten og den som ikke er der lenger. Når vi synger og
+                spiller disse sangene på norsk, kommer de nærmere oss -- likevel
+                er det umiskjennelig Tom Waits' verden vi er inne i, en verden
+                av rock, blues, jazz og poesi."
             </p>
             <p>
                 "Vi har spilt sammen i noen år nå og har rundt 40 sanger med
@@ -138,8 +138,8 @@
         <div class="container">
             <p>
                 <b>Pipe Lines</b> er rutinert pop/rock band som har holdt på kontinuerlig
-                i 50 år, hobby basis. Spiller alt fra The Shadows-Status Quo 1960
-                -1980. Eget PA anlegg for ute /inne med egen lyd teknikker. På YouTube
+                i 50 år, hobbybasis. Spiller alt fra The Shadows-Status Quo 1960
+                -1980. Eget PA anlegg for ute /inne med egen lydteknikker. På YouTube
                 kan dere se noen produksjoner under Pipe Lines 50 år. Vi har bygd
                 opp en historisk fortelling under fremførelsen av melodiene.
             </p>

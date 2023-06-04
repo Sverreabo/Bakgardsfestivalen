@@ -56,5 +56,5 @@
 		Kanskje du kjenner noen andre som kunne tenke seg å bidra sammen med
 		deg? Da er det bare å ta kontakt med Lisbet.
 	</p>
-	<p>Tusen takk</p>
+	<p>Tusen takk!</p>
 </main>

@@ -57,9 +57,12 @@
                     height="945"
                 />
                 <p>
-                    <a href="info/#Kvinnelinjer">Kvinnelinjer</a>. Kvinners
-                    livsfortellinger. (Foreningen KULT v/ Norunn Askeland og
-                    Lisbeth Thoresen)
+                    <a href="info/#Kvinnelinjer">Kvinnelinjer</a> er en bok med kvinners
+                    livsfortellinger. Liv Gjems intervjuer redaktørene Norunn Askeland
+                    og Lisbeth Thoresen. Kjersti Wold gir råd om hvordan fortelle
+                    om eget liv på ulike måter. Opplesing av forfatterne Vanessa
+                    Holmgren Røren, Sigrid Stokke, Solveig Tinderholt og Ellen Moskvil
+                    Thoresen.
                 </p>
             </li>
         </ul>

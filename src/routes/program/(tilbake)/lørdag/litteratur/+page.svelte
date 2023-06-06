@@ -12,7 +12,12 @@
         <ul>
             <li>
                 <p>
-                    <i>Tidsskriftet KULT</i> Redaktør Astrid Bjønness og skribenter
+                    KULT - en presentasjon ved Astrid Bjønness<br />
+                    Gutten i Grinna – Grethe Hald presenterer Hans Gerhard Sørensen<br
+                    />
+                    Spor av antikken i Tønsberg – Eivind Luthen<br />
+                    En av KULTs faste spalter: Utflytter<br />
+                    Tre tekstar om barndom – Norunn Askeland
                 </p>
             </li>
         </ul>

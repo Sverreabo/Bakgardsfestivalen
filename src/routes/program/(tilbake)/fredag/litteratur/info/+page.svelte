@@ -77,7 +77,7 @@
             omkring identitet, etnisitet, globalisering, flerkulturelle samfunn
             og klima og miljø. Gjennom et omfattende faglig forfatterskap om
             disse og andre temaer er han en internasjonalt kjent forsker. Her
-            intervjues han av sosiolog og professor Rune Nilsen om boka
+            intervjues han av sosiolog og professor Rune Åkvik Nilsen om boka
             <i>Syv meninger med livet</i> (2022).
         </p>
     </div>

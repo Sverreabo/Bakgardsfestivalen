@@ -122,7 +122,7 @@
                     <i>Syv meninger med livet</i>. Forfatter
                     <a href="info/#Thomas-Hylland-Eriksen"
                         >Thomas Hylland Eriksen</a
-                    > i samtale med Rune Nilsen.
+                    > i samtale med Rune Åkvik Nilsen.
                 </p>
             </li>
         </ul>

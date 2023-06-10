@@ -56,8 +56,8 @@
             <i>Abida Raja. Frihetens øyeblikk</i> gir et sterkt innblikk i oppveksten
             og livet til en representant for dagens voksne norsk-pakistanske kvinner,
             de som ble født i Norge, men ikke ble en del av det norske samfunnet.
-            Sammen med forfatter Håkon Høydal forteller hun om kampen for å bestemme
-            over seg selv og om kampen for et liv i frihet.
+            Sammen med sønnen Jawad Raja forteller hun om kampen for å bestemme over
+            seg selv og om kampen for et liv i frihet.
         </p>
     </div>
 </main>

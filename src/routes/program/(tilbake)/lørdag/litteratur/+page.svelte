@@ -97,8 +97,9 @@
                 />
                 <p>
                     <i>Frihetens øyeblikk</i>. Forfatter
-                    <a href="info/#Abida-Raja">Abida Raja</a> i samtale med Håkon
-                    Høydal.
+                    <a href="info/#Abida-Raja">Abida Raja</a>. Sammen med sønnen
+                    Jawad Raja forteller hun om kampen for å bestemme over seg
+                    selv og om kampen for et liv i frihet.
                 </p>
             </li>
         </ul>
